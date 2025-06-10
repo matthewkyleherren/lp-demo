@@ -1,0 +1,656 @@
+    <style>
+    :root {
+        --color-story-background: #263db5;
+        --color-story-foreground: #ffffff;
+    }
+</style>
+
+<div class="page-section insights-story-content" data-invert="true">
+    <div class="page-section-container">
+
+        <div class="spacer-32 l-spacer-0 m-spacer-0"></div>
+        <div class="spacer-150 m-spacer-100"></div>
+
+        <div class="modern-grid insights-secondary-text">
+            <div class="column-2 m-column-0"></div>
+            <div class="column-8 m-column-6 type-center type-15">
+                <a href="/insights">Insights</a>
+                <span class="middot-divider">•</span>
+                Customer profile
+                <span class="middot-divider">•</span>
+                <time>September 4, 2024</time>
+            </div>
+        </div>
+
+        <div class="spacer-24 m-spacer-16"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-10 m-column-6">
+                <h1 class="type-72 l-type-60 m-type-36 type-center">
+                    Life with <span class="alt">Backyard</span>:<br />
+                    Meet the Kurodas
+                </h1>
+            </div>
+        </div>
+
+        <div class="spacer-16 l-spacer-0 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <img
+                    class="newsroom-internal-image"
+                    src="/assets/images/insights/00-kuroda/00-kuroda-2400.webp"
+                    width="1106"
+                    height="737"
+                    alt="Robert Kuroda relaxing outside his Backyard ADU in evergreen smooth-coated steel."
+                    loading="lazy"
+                />
+                <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-14 m-type-12">
+                    Above:
+                    <span class="insights-secondary-text">
+                        Robert Kuroda relaxing outside his Backyard ADU in evergreen smooth-coated steel.
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-2 l-column-0 m-column-0"></div>
+            <div class="column-3 l-column-5 m-column-6">
+                <h2 class="type-36 m-type-30-light">
+                    The Kurodas give us a&nbsp;tour of&nbsp;their cozy Backyard, where they stay close to&nbsp;family.
+                </h1>
+            </div>
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 l-column-6 m-column-6 type-18-light m-type-15 insights-body-text">
+                <div class="spacer-100 m-spacer-32"></div>
+                <p>
+                    When Southern California retirees Robert and Debbie Kuroda needed a Sacramento pied-à-terre for family visits, they turned to Samara for a solution that was anything but ordinary. Their vision? A cozy, Japanese-inspired retreat that could fit snugly into the backyard of Debbie’s childhood home.
+                </p>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p>
+                    With Samara's elegant Backyard accessory dwelling unit, the Kurodas transformed a slice of suburban Sacramento into their perfect home-away-from-home. It's a story of smart design, family ties, and the art of living well in a compact space. Read on to learn how Samara's thoughtful design and turnkey service brought the Kurodas’ dream to life.
+                </p>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-4 l-column-5 m-column-6">
+                <video
+                    width="428"
+                    height="534"
+                    class="rounded-6"
+                    muted loop playsinline preload="auto" autoplay
+                    poster="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/3c37e49d50c7b2382cbad370068d24ad/thumbnails/thumbnail.jpg?width=400"
+                >
+                    <source
+                        src="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/3c37e49d50c7b2382cbad370068d24ad/downloads/default.mp4"
+                        type="video/mp4"
+                    />
+                </video>
+                <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-14 m-type-12">
+                    Above:
+                    <span class="insights-secondary-text">
+                        The Kurodas, plus their signature sense of humor.
+                    </span>
+                </div>
+                <div class="spacer-0 m-spacer-36"></div>
+            </div>
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 l-column-6 m-column-6">
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        Can you introduce yourselves for the audience?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        Robert and Debbie Kuroda. We, along with our brother, are the owners of the Samara ADU in Sacramento. We are both retired, Robert from Walt Disney Imagineering and Debbie from Southern California Edison.
+                    </p>
+                </div>
+                <div class="spacer-64"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 type-regola-regular">
+                        When and why did you first think “we should build an ADU”?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light">
+                        Our son, daughter in law, and grandson were living with us in Southern California. When they moved to Sacramento, we knew we would be visiting them more frequently. We both grew up in Sacramento and have family still there. Our brother lives there in the family house. We would stay there when we visited Sacramento but it would be disruptive if we stayed there for extensive periods of time. We looked at options such as buying or renting a small place but didn’t like the fact that it would be vacant for long periods of time. An ADU seemed like the right option.
+                    </p>
+                </div>
+                <div class="spacer-64"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 type-regola-regular">
+                        What ultimately led to you putting that idea in motion?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light">
+                        Our brother agreed to let us build an ADU in his backyard. We would both have our personal space yet be close enough to see each other. Our brother is also planning to remodel his house, so he’ll stay in the ADU during construction.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-6 m-column-6">
+                <img
+                    class="newsroom-internal-image rounded-4"
+                    src="/assets/images/insights/02-kuroda/02-kuroda-1440.webp"
+                    width="654"
+                    height="817"
+                    alt=""
+                    loading="lazy"
+                />
+                <div class="spacer-0 m-spacer-12"></div>
+            </div>
+            <div class="column-6 m-column-6">
+                <img
+                    class="newsroom-internal-image rounded-4"
+                    src="/assets/images/insights/03-kuroda/03-kuroda-1440.webp"
+                    width="654"
+                    height="817"
+                    alt=""
+                    loading="lazy"
+                />
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-4 l-column-5 m-column-0">
+                <img
+                    class="newsroom-internal-image"
+                    src="/assets/images/insights/05-kuroda/05-kuroda-860.webp"
+                    width="428"
+                    height="640"
+                    alt="The tranquil yard includes fruit-bearing and maple trees, plenty of bamboo, and a zen-like rock garden."
+                    loading="lazy"
+                />
+                <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-14 m-type-12">
+                    Above:
+                    <span class="insights-secondary-text">
+                        The tranquil yard includes fruit-bearing and maple trees, plenty of bamboo, and a zen-like rock garden.
+                    </span>
+                </div>
+            </div>
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 l-column-6 m-column-6">
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        What were the most important factors for you when it came to choosing someone to build your ADU?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        We wanted a prefab unit and a company that would provide a turnkey process from permitting and design through construction. We also needed assurance that the company was trustworthy and financially backed.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        Why did you choose Samara?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        We visited the showroom in Redwood City and liked the design and construction of the various units. The size and shape of the chosen unit seemed to fit in the backyard. We also needed to address some accessibility issues such as an access ramp and grab bars that Samara was able to do. Although Samara is a relatively new company, it has backing from Airbnb.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        What made you decide against using a general contractor or other prefab companies?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        Using a general contractor would take more time, both in design and the construction process. Onsite construction would be longer and more difficult, living out of town. We didn’t like the designs from other prefab companies. Several of them were also from out of state.
+                    </p>
+                </div>
+            </div>
+            <div class="mobile-visible m-column-6">
+                <div class="spacer-36"></div>
+                <img
+                    class="newsroom-internal-image"
+                    src="/assets/images/insights/05-kuroda/05-kuroda-860.webp"
+                    width="428"
+                    height="346"
+                    alt="The tranquil yard includes fruit-bearing and maple trees, plenty of bamboo, and a zen-like rock garden."
+                    loading="lazy"
+                />
+                <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-14 m-type-12">
+                    Above:
+                    <span class="insights-secondary-text">
+                        The tranquil yard includes fruit-bearing and maple trees, plenty of bamboo, and a zen-like rock garden.
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-7 l-column-10 m-column-6">
+                <blockquote class="type-36 l-type-30-light m-type-24-light">“Though qualified to design our own ADU, I&nbsp;didn’t have the time or energy to create something on my own. So&nbsp;I&nbsp;looked to others who&nbsp;could.”</blockquote>
+                <div class="spacer-24 l-spacer-16"></div>
+                <p class="type-18 l-type-15">Robert</p>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <img
+            class="insights-full-width-image"
+            src="/assets/images/insights/04-1-kuroda/04-1-kuroda-2880.webp"
+            width="1440"
+            height="864"
+            alt=""
+            loading="lazy"
+        />
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-6 m-column-0"></div>
+            <div class="column-5 l-column-6 m-column-6">
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        Is Backyard’s look and feel important to you? Why?
+                    </p>
+                    <div class="spacer-16 m-type-15-light m-spacer-8"></div>
+                    <p class="type-18-light">
+                        Yes. I (Robert) am a California licensed architect and landscape architect. I am very interested in design and construction. Though qualified to design our own ADU, I didn’t have the time or energy to create something on my own. So I looked to others who could.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        How are you planning on using your Backyard unit?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        We will stay there whenever we are in Sacramento. When our brother starts to remodel the main house, he will stay in the ADU.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        How has having Backyard impacted your lifestyle?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        It’s like having a second home where we can visit family and have a place of our own without bothering others.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        What are your favorite features?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        We like the green metal siding, vaulted ceilings, and double doors to the outside deck.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <img
+            class="insights-full-width-image"
+            src="/assets/images/insights/04-kuroda/04-kuroda-2880.webp"
+            width="1440"
+            height="860"
+            alt=""
+            loading="lazy"
+        />
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-4 l-column-5 m-column-6">
+                <blockquote class="type-36 m-type-24-light">
+                    “It’s like having a second home where we can visit family and have a place of our own without bothering others.”
+                </blockquote>
+                <div class="spacer-24 l-spacer-16"></div>
+                <p class="type-18 l-type-15">Robert</p>
+                <div class="m-spacer-72"></div>
+            </div>
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 l-column-6 m-column-6 type-18-light insights-body-text">
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        Can you share some details about how you decorated your Backyard unit?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        We wanted a cohesive look between both rooms that was modern to complement the Samara ADU. We also have several Japanese prints and ceramics we wanted to feature. So the interior has a modern Japanese flavor. We lived in Tokyo for several years and wanted to have elements that reminded us of Japan.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        Tell us more about the garden you designed.
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        The outdoor space was very important to us. It started with the wrap around deck that provided direct access to the outdoors. We were able to save two large trees next to the ADU. We wanted the space between the existing house and the ADU to provide privacy yet be a garden space to be shared by both living spaces. The contemporary zen-like garden tied into the interior feeling of modern and Japanese. The garden under the existing trees featured plants common in Japanese gardens.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        What aspects of working with Samara exceeded your expectations? Would you recommend us to others?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        The transition from sales to contracts to project management was seamless. We would recommend Samara to others.
+                    </p>
+                </div>
+                <div class="spacer-64 m-spacer-36"></div>
+                <div class="insights-interview-block">
+                    <p class="type-18 m-type-15 type-regola-regular">
+                        What advice would you give to someone considering building an ADU?
+                    </p>
+                    <div class="spacer-16 m-spacer-8"></div>
+                    <p class="type-18-light m-type-15-light">
+                        Be sure to place quality (design, product), reliability (schedule and budget), and service (communications, trust) at the top of your list.&nbsp;&nbsp;●
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <img
+                    class="newsroom-internal-image"
+                    src="/assets/images/insights/06-kuroda/06-kuroda-2200.webp"
+                    width="1106"
+                    height="737"
+                    alt="The generous wraparound deck includes a ramp to make the approach to Backyard easier."
+                    loading="lazy"
+                />
+                <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-14 m-type-12 type-center m-type-left">
+                    Above:
+                    <span class="insights-secondary-text">
+                        The generous wraparound deck includes a ramp to make the approach to Backyard easier.
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-16 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+        <div class="modern-grid">
+            <div class="column-3 l-column-2 m-column-0"></div>
+            <div class="column-6 l-column-8 m-column-6">
+                <h3 class="type-60 l-type-48 m-type-30-light type-center">Featured in this story:</h3>
+                <div class="spacer-50 m-spacer-24"></div>
+                <div class="insights-story-model">
+                    <div class="insights-story-model-image">
+                        <a href="/backyard/one-bedroom">
+                            <img
+                                src="/assets/images/backyard/mini-configurator-v2/onebed-evergreen/onebed-evergreen-2200.webp"
+                                alt="One bedroom Backyard"
+                                loading="lazy"
+                            />
+                        </a>
+                    </div>
+                    <div class="insights-story-model-title">
+                        <div class="insights-story-model-title-left">
+                            <h4 class="type-30-light m-type-21-light alt color-text-100">One bedroom Backyard</h4>
+                            <div class="spacer-4 m-spacer-8"></div>
+                            <p class="type-14 m-type-12 color-text-60">
+                                In evergreen <span class="tablet-hidden">smooth-coated steel</span> with dark bronze roof
+                            </p>
+                            <div class="spacer-12"></div>
+                        </div>
+                        <div class="insights-story-model-title-actions type-15 l-type-14 m-type-14">
+                            <a href="/backyard/one-bedroom">Explore</a>
+                            <a href="/backyard/configure#evergreen+onebed" class="insights-story-model-title-actions-design">
+                                Design
+                                <img src="/assets/images/icons/box-blue.svg" width="14" height="16" alt="Design" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+    </div>
+</div>
+
+
+<div class="page-section insights-story-footer">
+    <div class="page-section-container">
+        <div class="spacer-64 m-spacer-36"></div>
+        <div class="modern-grid">
+    <div class="column-3 m-column-0"></div>
+    <div class="column-6 m-column-6 newsroom-internal-share type-14 m-type-12 type-regola-regular">
+        <div class="color-text-60">Share:</div>
+        <a
+            onclick="Newsroom.copyLink(event)"
+            target="_blank"
+        >
+            <div class="newsroom-internal-feedback type-14 m-type-12">Link copied</div>
+            Copy link
+        </a>
+        <a
+            onclick="location = `mailto:?subject=Life with Backyard: Meet the Kurodas&body=${location.href}`"
+        >
+            Email
+        </a>
+        <a
+            onclick="window.open(`https://twitter.com/intent/tweet?text=${location.href}`)"
+        >
+            X
+        </a>
+        <a
+            onclick="window.open(`https://www.facebook.com/sharer/sharer.php?u=${location.href}`)"
+        >
+            Facebook
+        </a>
+    </div>
+</div>
+
+        <div class="spacer-100"></div>
+        <div class="spacer-100 m-spacer-0"></div>
+        <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+        <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/insights/how-we-built-a-fire-resistant-ADU">
+	<div class="doorway-item-foreground">
+		<div>Fire resistant by design.</div>
+		<nobr class="nobr">Learn more <img
+			class="doorway-item-arrow"
+			src="/assets/images/icons/arrow-right-black.svg"
+			width="24"
+			height="16"
+			alt="→"
+			loading="lazy"
+		/></nobr>
+	</div>
+	<img
+		class="doorway-item-background"
+		srcset="/assets/images/doorway/doorway-fire-resistant-mobile/doorway-fire-resistant-mobile-1200.webp 768w, /assets/images/doorway/doorway-fire-resistant/doorway-fire-resistant-720.webp"
+		alt=""
+		loading="lazy"
+		width="315"
+		height="432"
+	/>
+</a>
+</div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">Samara</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+                <li><a href="/backyard/guides">Local guides</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2025 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+

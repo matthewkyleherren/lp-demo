@@ -1,0 +1,1168 @@
+    
+<article class="page-section">
+    <div class="page-section-container">
+        <div class="spacer-32 m-spacer-0"></div>
+        <div class="spacer-150 m-spacer-72"></div>
+        <div class="g">
+            <h1 class="type-120 m-type-96">
+                News<span>room</span>
+                <div class="spacer-120 m-spacer-50"></div>
+            </h1>
+        </div>
+
+        <div class="modern-grid m-modern-grid-full">
+            <div class="column-12">
+                <img
+                    srcset="/assets/images/newsroom/adu-valley/adu-valley-2880.webp"
+                    width="1332"
+                    height="751"
+                    alt="Samara and Steadfast LA’s wildfire recovery initiative"
+                    class="mobile-hidden full-width rounded-6" 
+                />
+                <img
+                    srcset="/assets/images/newsroom/adu-valley-portrait/adu-valley-portrait-1125.webp"
+                    width="375"
+                    height="310"
+                    alt="Samara and Steadfast LA’s wildfire recovery initiative"
+                    class="desktop-hidden full-width" 
+                />
+            </div>
+        </div>
+        <div class="spacer-50 m-spacer-36"></div>
+        <div class="modern-grid">
+            <div class="column-1"></div>
+            <div class="column-10">
+                <div class="type-18 m-type-15 color-text-60 flex gap-8 items-center">
+                    Press highlights
+                    <svg width="21" height="14" viewBox="0 0 21 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.68457 6.71387C1.12305 6.71387 0.700684 6.57715 0.41748 6.30371C0.13916 6.02539 0 5.60547 0 5.04395V2.00439C0 1.44775 0.13916 1.03271 0.41748 0.759277C0.700684 0.480957 1.12305 0.341797 1.68457 0.341797H8.42285C8.98438 0.341797 9.4043 0.480957 9.68262 0.759277C9.96582 1.03271 10.1074 1.44775 10.1074 2.00439V5.04395C10.1074 5.60547 9.96582 6.02539 9.68262 6.30371C9.4043 6.57715 8.98438 6.71387 8.42285 6.71387H1.68457ZM1.77246 5.60791H8.33496C8.5498 5.60791 8.71338 5.55176 8.82568 5.43945C8.94287 5.32227 9.00146 5.15137 9.00146 4.92676V2.12891C9.00146 1.89941 8.94287 1.72852 8.82568 1.61621C8.71338 1.50391 8.5498 1.44775 8.33496 1.44775H1.77246C1.55762 1.44775 1.3916 1.50391 1.27441 1.61621C1.16211 1.72852 1.10596 1.89941 1.10596 2.12891V4.92676C1.10596 5.15137 1.16211 5.32227 1.27441 5.43945C1.3916 5.55176 1.55762 5.60791 1.77246 5.60791ZM3.55225 13.6572C2.99561 13.6572 2.57568 13.5181 2.29248 13.2397C2.00928 12.9663 1.86768 12.5488 1.86768 11.9873V9.92188C1.86768 9.36035 2.00928 8.94287 2.29248 8.66943C2.57568 8.396 2.99561 8.25928 3.55225 8.25928H9.33105C9.89258 8.25928 10.3125 8.396 10.5908 8.66943C10.874 8.94287 11.0156 9.36035 11.0156 9.92188V11.9873C11.0156 12.5488 10.874 12.9663 10.5908 13.2397C10.3125 13.5181 9.89258 13.6572 9.33105 13.6572H3.55225ZM3.64014 12.5513H9.23584C9.45557 12.5513 9.62158 12.4927 9.73389 12.3755C9.85107 12.2632 9.90967 12.0947 9.90967 11.8701V10.0391C9.90967 9.80957 9.85107 9.64111 9.73389 9.53369C9.62158 9.42139 9.45557 9.36523 9.23584 9.36523H3.64014C3.42529 9.36523 3.25928 9.42139 3.14209 9.53369C3.02979 9.64111 2.97363 9.80957 2.97363 10.0391V11.8701C2.97363 12.0947 3.02979 12.2632 3.14209 12.3755C3.25928 12.4927 3.42529 12.5513 3.64014 12.5513ZM14.1577 12.8003C13.5962 12.8003 13.1738 12.6611 12.8906 12.3828C12.6123 12.1094 12.4731 11.6919 12.4731 11.1304V2.99316C12.4731 2.43164 12.6123 2.01416 12.8906 1.74072C13.1738 1.46729 13.5962 1.33057 14.1577 1.33057H18.9404C19.502 1.33057 19.9219 1.46729 20.2002 1.74072C20.4834 2.01416 20.625 2.43164 20.625 2.99316V11.1304C20.625 11.6919 20.4834 12.1094 20.2002 12.3828C19.9219 12.6611 19.502 12.8003 18.9404 12.8003H14.1577ZM14.2383 11.6943H18.8452C19.0649 11.6943 19.231 11.6382 19.3433 11.5259C19.4604 11.4136 19.519 11.2427 19.519 11.0132V3.11768C19.519 2.88818 19.4604 2.71729 19.3433 2.60498C19.231 2.49268 19.0649 2.43652 18.8452 2.43652H14.2383C14.0234 2.43652 13.8599 2.49268 13.7476 2.60498C13.6353 2.71729 13.5791 2.88818 13.5791 3.11768V11.0132C13.5791 11.2427 13.6353 11.4136 13.7476 11.5259C13.8599 11.6382 14.0234 11.6943 14.2383 11.6943Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                    </svg>
+                </div>
+                <div class="spacer-16 m-spacer-8"></div>
+                <h2 class="type-72 m-type-36">
+                    Samara and Steadfast LA’s wildfire recovery initiative in the news:
+                </h2>
+            </div>
+        </div>
+    </div>
+</article>
+
+<div class="spacer-36 m-spacer-16"></div>
+<div class="spacer-8"></div>
+
+<div class="press-highlights press-highlights-variant-light">
+    <div class="press-highlights-items">
+        <div class="press-highlights-items-scroll">
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.fastcompany.com/91285776/this-nonprofit-will-deliver-new-free-homes-to-some-l-a-fire-victims" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        This nonprofit will deliver free homes to&nbsp;L.A. fire victims
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        Fast Company
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.dailynews.com/2025/02/23/prefab-builder-offers-free-homes-to-wildfire-victims-after-15-million-donation/" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Prefab builder offers free homes to&nbsp;wildfire victims after $15&nbsp;million donation
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        Los Angeles Daily News
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.realtor.com/news/trends/airbnb-samara-steadfast-la-prefab-homes-california-fire-victims/" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Airbnb Co-Founder Is&nbsp;Donating $15&nbsp;Million to&nbsp;Build Prefab Homes for L.A. Fire Victims
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        realtor.com
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.latimes.com/california/story/2025-02-20/caruso-backed-nonprofit-partners-with-builder-to-give-prefab-homes-to-fire-victims" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Caruso-backed nonprofit partners with builder to&nbsp;give prefab homes to&nbsp;fire victims
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        Los Angeles Times
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://abc7.com/post/steadfast-la-rick-caruso-organization-dedicated-rebuilding-efforts-bringing-80-100-modular-homes-most-need/15933996/" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Rick Caruso nonprofit plans 80&nbsp;to 100 modular homes for those most impacted by&nbsp;wildfires
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        ABC 7 Los Angeles
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.foxla.com/news/rick-caruso-new-homes-to-wildfire-victims-steadfastla" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Rick Caruso’s organization offering new homes to&nbsp;wildfire victims
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        FOX 11 Los Angeles
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://www.bloomberg.com/news/articles/2025-02-19/airbnb-billionaire-plans-factory-built-homes-for-la-fire-victims" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Airbnb Billionaire Offers Pre-Fab Homes for LA&nbsp;Fire Victims
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        Bloomberg
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+                <a class="press-highlights-scroll-item flex flex-column" href="https://therealdeal.com/la/2025/02/20/caruso-nonprofit-to-provide-free-pre-fab-homes-in-la-county/" target="_blank">
+                    <div class="type-30-light m-type-24-light">
+                        Caruso nonprofit to&nbsp;provide free pre-fab homes in&nbsp;LA County
+                    </div>
+
+                    <div class="flex-1"></div>
+
+                    <div class="type-15 color-text-40 flex items-center gap-8">
+                        The Real Deal
+
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: translateY(1px);">
+                            <path d="M2.00977 12.373C1.3444 12.373 0.843099 12.2044 0.505859 11.8672C0.16862 11.5345 0 11.04 0 10.3838V1.99609C0 1.33529 0.16862 0.838542 0.505859 0.505859C0.843099 0.16862 1.3444 0 2.00977 0H10.3564C11.0264 0 11.5299 0.170898 11.8672 0.512695C12.2044 0.849935 12.373 1.3444 12.373 1.99609V10.3838C12.373 11.04 12.2044 11.5345 11.8672 11.8672C11.5299 12.2044 11.0264 12.373 10.3564 12.373H2.00977ZM2.03027 11.5322H10.3428C10.721 11.5322 11.0127 11.432 11.2178 11.2314C11.4274 11.0309 11.5322 10.7324 11.5322 10.3359V2.04395C11.5322 1.64746 11.4274 1.34896 11.2178 1.14844C11.0127 0.943359 10.721 0.84082 10.3428 0.84082H2.03027C1.6429 0.84082 1.34668 0.943359 1.1416 1.14844C0.941081 1.34896 0.84082 1.64746 0.84082 2.04395V10.3359C0.84082 10.7324 0.941081 11.0309 1.1416 11.2314C1.34668 11.432 1.6429 11.5322 2.03027 11.5322ZM8.42188 7.83398C8.30339 7.83398 8.20768 7.79753 8.13477 7.72461C8.06185 7.64714 8.02539 7.5446 8.02539 7.41699V5.91309L8.09375 4.78516L7.23926 5.70117L4.27246 8.66113C4.19043 8.74316 4.09017 8.78418 3.97168 8.78418C3.85319 8.78418 3.75749 8.74772 3.68457 8.6748C3.61621 8.60189 3.58203 8.50618 3.58203 8.3877C3.58203 8.28288 3.62533 8.18717 3.71191 8.10059L6.67871 5.14062L7.59473 4.26562L6.61035 4.34082H4.94922C4.82617 4.34082 4.72591 4.30664 4.64844 4.23828C4.57096 4.16536 4.53223 4.06966 4.53223 3.95117C4.53223 3.83724 4.56868 3.74609 4.6416 3.67773C4.71908 3.60482 4.81934 3.56836 4.94238 3.56836H8.37402C8.50618 3.56836 8.611 3.60254 8.68848 3.6709C8.76595 3.73926 8.80469 3.84863 8.80469 3.99902V7.41016C8.80469 7.5332 8.76823 7.63574 8.69531 7.71777C8.62695 7.79525 8.53581 7.83398 8.42188 7.83398Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+                        </svg>
+                    </div>
+                </a>
+            <div class="press-highlights-scroll-spacer"></div>
+        </div>
+    </div>
+
+    <button class="press-highlights-scroll-button press-highlights-scroll-button-previous">
+        <svg width="16" height="26" viewBox="0 0 16 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.1924 13C15.1924 12.8047 15.1533 12.624 15.0752 12.458C15.0068 12.292 14.8994 12.1406 14.7529 12.0039L3.16602 0.651367C2.90234 0.387695 2.5752 0.255859 2.18457 0.255859C1.93066 0.255859 1.69629 0.319336 1.48145 0.446289C1.27637 0.563477 1.11035 0.724609 0.983398 0.929688C0.866211 1.13477 0.807617 1.36914 0.807617 1.63281C0.807617 2.00391 0.939453 2.32617 1.20312 2.59961L11.8379 13L1.20312 23.4004C0.939453 23.6738 0.807617 23.9961 0.807617 24.3672C0.807617 24.6309 0.866211 24.8652 0.983398 25.0703C1.11035 25.2754 1.27637 25.4365 1.48145 25.5537C1.69629 25.6807 1.93066 25.7441 2.18457 25.7441C2.5752 25.7441 2.90234 25.6074 3.16602 25.334L14.7529 13.9961C14.8994 13.8594 15.0068 13.708 15.0752 13.542C15.1533 13.376 15.1924 13.1953 15.1924 13Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+        </svg>
+    </button>
+
+    <button class="press-highlights-scroll-button press-highlights-scroll-button-next">
+        <svg width="16" height="26" viewBox="0 0 16 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.1924 13C15.1924 12.8047 15.1533 12.624 15.0752 12.458C15.0068 12.292 14.8994 12.1406 14.7529 12.0039L3.16602 0.651367C2.90234 0.387695 2.5752 0.255859 2.18457 0.255859C1.93066 0.255859 1.69629 0.319336 1.48145 0.446289C1.27637 0.563477 1.11035 0.724609 0.983398 0.929688C0.866211 1.13477 0.807617 1.36914 0.807617 1.63281C0.807617 2.00391 0.939453 2.32617 1.20312 2.59961L11.8379 13L1.20312 23.4004C0.939453 23.6738 0.807617 23.9961 0.807617 24.3672C0.807617 24.6309 0.866211 24.8652 0.983398 25.0703C1.11035 25.2754 1.27637 25.4365 1.48145 25.5537C1.69629 25.6807 1.93066 25.7441 2.18457 25.7441C2.5752 25.7441 2.90234 25.6074 3.16602 25.334L14.7529 13.9961C14.8994 13.8594 15.0068 13.708 15.0752 13.542C15.1533 13.376 15.1924 13.1953 15.1924 13Z" fill="black" fill-opacity="0.4" style="fill:black;fill-opacity:0.4;"/>
+        </svg>
+    </button>
+</div>
+
+<div class="spacer-36 m-spacer-16"></div>
+<div class="spacer-8"></div>
+
+<div class="flex justify-center">
+    <a class="button-rounded button-squared button-rounded-black type-18 press-highlights-learn-more-button" href="/la-fires">
+        Learn about our fire recovery efforts
+    </a>
+</div>
+
+<div class="spacer-80 m-spacer-16"></div>
+
+<article class="page-section">
+    <div class="page-section-container">   
+
+        <div class="newsroom-items">
+            <div class="seen-in">
+                <h3>We’ve been featured in:</h3>
+                <div class="logos">
+                    <img alt="CNBC" src="/assets/images/newsroom/cnbc.svg" height="24">
+                    <img alt="Fast Company" src="/assets/images/newsroom/fastcompany.svg" height="26">
+                    <img alt="Bloomberg" src="/assets/images/newsroom/bloomberg.svg" height="28">
+                    <img alt="Wall Street Journal" src="/assets/images/newsroom/wsj.svg" height="32">
+                    <img alt="Wallpaper" src="/assets/images/newsroom/wallpaper.svg" height="31">
+                </div>
+            </div>
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium
+                    
+                    
+                ">
+                        <a href="/news/time-names-backyard-a-best-invention-of-2024" target="_self">
+                            <img src="https://www.samara.com/assets/remote/7e59efa2-59ea-4288-8dea-05bb7cdfb800/w=2200" alt="TIME names Samara’s Backyard a Best Invention of 2024" width="2200" height="1239" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Update
+                        </div>
+                        <h2>
+                            <a href="/news/time-names-backyard-a-best-invention-of-2024" target="_self">
+                                TIME names Samara’s Backyard&nbsp;a&nbsp;Best Invention of&nbsp;2024
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/time-names-backyard-a-best-invention-of-2024"
+                                    target="_self"
+                                >
+                                    October 30, 2024
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+                    <hr />
+                    <div class="spacer-50"></div>
+
+                    <div class="item-video-group">
+                        <div class="modern-grid">
+                            <div class="column-1 l-column-0"></div>
+                            <div class="column-10 m-column-6">
+                                <div class="desktop-hidden">
+                                    <hr />
+                                    <div class="spacer-32"></div>
+                                </div>
+                                <h1 class="type-30-light m-type-24-light">Recent video features</h1>
+                            </div>
+                        </div>
+                        <div class="spacer-32"></div>
+                        <div class="modern-grid">
+                            <div class="column-1 l-column-0"></div>
+
+
+
+                <div class="
+                    item
+                    video
+                    column-5 l-column-6
+                    
+                ">
+                        <a href="https://www.cnbc.com/video/2024/09/05/samara-co-founder-joe-gebbia-our-mission-is-to-improve-the-way-people-live-by-reimagining-the-home.html" target="_blank">
+                            <img src="https://www.samara.com/assets/remote/024a83bb-ea38-40e8-7b6e-5fdd097a5c00/w=2200" alt="Watch Samara co-founders Mike McNamara and Joe Gebbia on CNBC’s Squawk Box" width="1082" height="524" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.cnbc.com/video/2024/09/05/samara-co-founder-joe-gebbia-our-mission-is-to-improve-the-way-people-live-by-reimagining-the-home.html" target="_blank">Squawk Box on CNBC</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                                <img
+                                                    src="/assets/images/icons/box-video-light-grey.svg"
+                                                    width="14"
+                                                    height="14"
+                                                    alt="Video"
+                                                />
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.cnbc.com/video/2024/09/05/samara-co-founder-joe-gebbia-our-mission-is-to-improve-the-way-people-live-by-reimagining-the-home.html" target="_blank">
+                                Watch Samara co-founders Mike McNamara and Joe Gebbia on&nbsp;CNBC’s Squawk Box
+                            </a>
+                        </h2>
+                    </div>
+                </div>
+
+                    <div class="desktop-hidden m-spacer-32"></div>
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    video
+                    column-5 l-column-6
+                    
+                ">
+                        <a href="https://www.foxbusiness.com/video/6354868199112" target="_blank">
+                            <img src="https://www.samara.com/assets/remote/7ce5f94c-fc2b-4c3b-339c-24e283c18e00/w=2200" alt="Co-founders Mike McNamara and Joe Gebbia discuss Samara on Fox Business Network’s Mornings with Maria" width="1082" height="524" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.foxbusiness.com/video/6354868199112" target="_blank">Fox Business: Mornings with Maria</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                                <img
+                                                    src="/assets/images/icons/box-video-light-grey.svg"
+                                                    width="14"
+                                                    height="14"
+                                                    alt="Video"
+                                                />
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.foxbusiness.com/video/6354868199112" target="_blank">
+                                Co-founders Mike McNamara and Joe Gebbia discuss Samara on&nbsp;Fox Business Network’s Mornings with Maria
+                            </a>
+                        </h2>
+                    </div>
+                </div>
+
+
+
+                        </div>
+                        <div class="spacer-50 m-spacer-32"></div>
+                        <div class="modern-grid">
+                            <hr class="column-12" />
+                        </div>
+                        <div class="spacer-50 m-spacer-32"></div>
+                    </div>
+
+
+
+
+                    <div class="item-quote-group">
+                        <div class="modern-grid">
+                            <div class="column-6 l-column-4 m-column-0"></div>
+
+
+                <div class="
+                    item
+                    quote
+                    
+                    column-5 l-column-8 m-column-6
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    —
+                                    <div class="source-quote-link">
+                                        <a href="https://www.cnbc.com/video/2024/09/05/samara-co-founder-joe-gebbia-our-mission-is-to-improve-the-way-people-live-by-reimagining-the-home.html" target="_blank">Andrew Ross Sorkin, Squawk Box on CNBC</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.cnbc.com/video/2024/09/05/samara-co-founder-joe-gebbia-our-mission-is-to-improve-the-way-people-live-by-reimagining-the-home.html" target="_blank">
+                                “It&nbsp;really is&nbsp;the Tesla or&nbsp;Apple of&nbsp;housing.”
+                            </a>
+                        </h2>
+                    </div>
+                </div>
+
+
+
+
+                        </div>
+                        <div class="spacer-50 m-spacer-32"></div>
+                        <div class="modern-grid">
+                            <hr class="column-12" />
+                        </div>
+                        <div class="spacer-50 m-spacer-32"></div>
+                    </div>
+
+
+
+
+
+                <div class="
+                    item
+                    medium alternative
+                    
+                    
+                ">
+                        <a href="/news/there-s-more-to-love-with-backyard-xl-10" target="_self">
+                            <img src="https://www.samara.com/assets/remote/b1ae142b-b246-4501-20f1-f1350a84c300/w=2200" alt="There’s more to love with Backyard XL 10" width="2000" height="1500" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Update
+                        </div>
+                        <h2>
+                            <a href="/news/there-s-more-to-love-with-backyard-xl-10" target="_self">
+                                There’s more to&nbsp;love with Backyard&nbsp;XL&nbsp;10
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/there-s-more-to-love-with-backyard-xl-10"
+                                    target="_self"
+                                >
+                                    August 01, 2024
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium
+                    
+                    
+                ">
+                        <a href="/news/samara-launches-proprietary-financing-product-to-bring-more-space-to-millions-of-homeowners" target="_self">
+                            <img src="https://www.samara.com/assets/remote/c5700752-823e-4522-f805-a3a788b63400/w=2200" alt="Samara Launches Proprietary Financing Product to  Bring More Space to Millions of Homeowners" width="2200" height="1238" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Press Release
+                        </div>
+                        <h2>
+                            <a href="/news/samara-launches-proprietary-financing-product-to-bring-more-space-to-millions-of-homeowners" target="_self">
+                                Samara Launches Proprietary Financing Product to&nbsp;Bring More Space to&nbsp;Millions of&nbsp;Homeowners
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/samara-launches-proprietary-financing-product-to-bring-more-space-to-millions-of-homeowners"
+                                    target="_self"
+                                >
+                                    June 20, 2024
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium alternative
+                    
+                    
+                ">
+                        <a href="/news/introducing-backyard-xl" target="_self">
+                            <img src="https://www.samara.com/assets/remote/4f02d289-169f-4ab4-50e7-edb29cfa4300/w=2200" alt="Introducing Backyard XL 8" width="2200" height="1650" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Update
+                        </div>
+                        <h2>
+                            <a href="/news/introducing-backyard-xl" target="_self">
+                                Introducing Backyard&nbsp;XL&nbsp;8
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/introducing-backyard-xl"
+                                    target="_self"
+                                >
+                                    May 01, 2024
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+                    <div class="item-group">
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.wallpaper.com/design-interiors/samara-garden-dwelling-backyard" target="_blank">Wallpaper</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.wallpaper.com/design-interiors/samara-garden-dwelling-backyard" target="_blank">
+                                This flexible, customisable garden dwelling by&nbsp;Samara brings functionality to&nbsp;outside space
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.wallpaper.com/design-interiors/samara-garden-dwelling-backyard"
+                                    target="_blank"
+                                >
+                                    November 20, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.businessinsider.com/samara-tiny-homes-see-inside-2022-11" target="_blank">Insider</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.businessinsider.com/samara-tiny-homes-see-inside-2022-11" target="_blank">
+                                An&nbsp;Airbnb cofounder’s new startup is&nbsp;building $289,000 prefab tiny homes that can be&nbsp;set up&nbsp;in a&nbsp;few hours
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.businessinsider.com/samara-tiny-homes-see-inside-2022-11"
+                                    target="_blank"
+                                >
+                                    November 16, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.timeout.com/usa/news/the-co-founder-of-airbnb-is-now-making-backyard-tiny-homes-112122" target="_blank">Time Out</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.timeout.com/usa/news/the-co-founder-of-airbnb-is-now-making-backyard-tiny-homes-112122" target="_blank">
+                                The co-founder of&nbsp;Airbnb is&nbsp;now making backyard tiny homes
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.timeout.com/usa/news/the-co-founder-of-airbnb-is-now-making-backyard-tiny-homes-112122"
+                                    target="_blank"
+                                >
+                                    November 21, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+                    </div>
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium
+                    
+                    
+                ">
+                        <a href="/news/samara-acquires-factory-to-scale-manufacturing-of-backyard" target="_self">
+                            <img src="https://www.samara.com/assets/remote/dd6932ff-e29e-410b-b2e6-4f23130e1e00/w=2200" alt="Samara Acquires Factory to Scale Manufacturing of Backyard  as Demand for ADUs Soars in California" width="2200" height="1237" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Press Release
+                        </div>
+                        <h2>
+                            <a href="/news/samara-acquires-factory-to-scale-manufacturing-of-backyard" target="_self">
+                                Samara Acquires Factory to&nbsp;Scale Manufacturing of&nbsp;Backyard&nbsp;as&nbsp;Demand for ADUs Soars in&nbsp;California
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/samara-acquires-factory-to-scale-manufacturing-of-backyard"
+                                    target="_self"
+                                >
+                                    February 29, 2024
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium alternative
+                    
+                    
+                ">
+                        <a href="/news/samara-raises-41-million-to-bring-high-quality-adus-to-every-backyard-in-california-and-beyond" target="_self">
+                            <img src="https://www.samara.com/assets/remote/59ee21f7-d5a4-4592-e873-b16c86b7ea00/w=2200" alt="Samara raises $41 million to bring high quality ADUs to every backyard in California and beyond" width="2200" height="1265" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                Update
+                        </div>
+                        <h2>
+                            <a href="/news/samara-raises-41-million-to-bring-high-quality-adus-to-every-backyard-in-california-and-beyond" target="_self">
+                                Samara raises $41&nbsp;million to&nbsp;bring high quality ADUs to&nbsp;every backyard in&nbsp;California and beyond
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="/news/samara-raises-41-million-to-bring-high-quality-adus-to-every-backyard-in-california-and-beyond"
+                                    target="_self"
+                                >
+                                    October 30, 2023
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+                    <div class="item-group">
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.curbed.com/2022/11/airbnb-co-founder-discovers-the-adu.html" target="_blank">New York: Curbed</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.curbed.com/2022/11/airbnb-co-founder-discovers-the-adu.html" target="_blank">
+                                Airbnb’s Co-Founder Is&nbsp;Building ADUs That Would Make Great Airbnbs
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.curbed.com/2022/11/airbnb-co-founder-discovers-the-adu.html"
+                                    target="_blank"
+                                >
+                                    November 17, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://archinect.com/news/article/150330544/airbnb-co-founder-s-startup-samara-unveils-backyard-its-first-adu-model-for-california" target="_blank">Archinect</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://archinect.com/news/article/150330544/airbnb-co-founder-s-startup-samara-unveils-backyard-its-first-adu-model-for-california" target="_blank">
+                                Airbnb co-founder’s startup Samara unveils 'Backyard,' its first ADU model for California
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://archinect.com/news/article/150330544/airbnb-co-founder-s-startup-samara-unveils-backyard-its-first-adu-model-for-california"
+                                    target="_blank"
+                                >
+                                    November 16, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    small
+                    
+                    
+                ">
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.designboom.com/architecture/airbnb-samara-flexible-backyard-unit-inaugural-product-11-15-2022/" target="_blank">DesignBoom</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.designboom.com/architecture/airbnb-samara-flexible-backyard-unit-inaugural-product-11-15-2022/" target="_blank">
+                                Samara’s flexible solar-powered unit unlocks the full potential of&nbsp;your backyard
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.designboom.com/architecture/airbnb-samara-flexible-backyard-unit-inaugural-product-11-15-2022/"
+                                    target="_blank"
+                                >
+                                    November 14, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+                    </div>
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium
+                    
+                    
+                ">
+                        <a href="https://www.wsj.com/articles/airbnb-co-founders-new-business-is-building-small-homes-in-backyards-11668414543" target="_blank">
+                            <img src="https://www.samara.com/assets/remote/18a8fd12-a34d-4b25-ee57-9d6aab3b7700/w=2200" alt="Airbnb Co-founder’s New Business Is Building Small Homes in Backyards" width="1534" height="1050" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.wsj.com/articles/airbnb-co-founders-new-business-is-building-small-homes-in-backyards-11668414543" target="_blank"> Wall Street Journal</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.wsj.com/articles/airbnb-co-founders-new-business-is-building-small-homes-in-backyards-11668414543" target="_blank">
+                                Airbnb Co-founder’s New Business Is&nbsp;Building Small Homes in&nbsp;Backyards
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.wsj.com/articles/airbnb-co-founders-new-business-is-building-small-homes-in-backyards-11668414543"
+                                    target="_blank"
+                                >
+                                    November 14, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                <div class="
+                    item
+                    medium alternative
+                    
+                    
+                ">
+                        <a href="https://www.fastcompany.com/90809611/inside-an-airbnb-cofounders-latest-venture-building-tiny-backyard-homes" target="_blank">
+                            <img src="https://www.samara.com/assets/remote/d232879b-2c44-458d-f18f-abf491e85200/w=2200" alt="Inside an Airbnb cofounder’s latest venture: Building tiny backyard homes" width="1306" height="896" />
+                        </a>
+                    <div class="details">
+                        <div class="source">
+                                <div class="source-quote">
+                                    
+                                    <div class="source-quote-link">
+                                        <a href="https://www.fastcompany.com/90809611/inside-an-airbnb-cofounders-latest-venture-building-tiny-backyard-homes" target="_blank">Fast Company</a>
+                                        <div class="newsroom-items-item-source-icons">
+                                            <img
+                                                src="/assets/images/icons/box-out-light-grey.svg"
+                                                width="14"
+                                                height="14"
+                                                alt="External source"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <h2>
+                            <a href="https://www.fastcompany.com/90809611/inside-an-airbnb-cofounders-latest-venture-building-tiny-backyard-homes" target="_blank">
+                                Inside an&nbsp;Airbnb cofounder’s latest venture: Building tiny backyard homes
+                            </a>
+                        </h2>
+                            <div class="date">
+                                <a
+                                    href="https://www.fastcompany.com/90809611/inside-an-airbnb-cofounders-latest-venture-building-tiny-backyard-homes"
+                                    target="_blank"
+                                >
+                                    November 14, 2022
+                                </a>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+        </div>
+
+    <div class="spacer-150 m-spacer-100"></div>
+
+    <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+        <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/insights/how-we-built-a-fire-resistant-ADU">
+	<div class="doorway-item-foreground">
+		<div>Fire resistant by design.</div>
+		<nobr class="nobr">Learn more <img
+			class="doorway-item-arrow"
+			src="/assets/images/icons/arrow-right-black.svg"
+			width="24"
+			height="16"
+			alt="→"
+			loading="lazy"
+		/></nobr>
+	</div>
+	<img
+		class="doorway-item-background"
+		srcset="/assets/images/doorway/doorway-fire-resistant-mobile/doorway-fire-resistant-mobile-1200.webp 768w, /assets/images/doorway/doorway-fire-resistant/doorway-fire-resistant-720.webp"
+		alt=""
+		loading="lazy"
+		width="315"
+		height="432"
+	/>
+</a>
+</div>
+
+    <div class="spacer-120 m-spacer-72"></div>
+    <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">Samara</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+                <li><a href="/backyard/guides">Local guides</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2025 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</article>
+
