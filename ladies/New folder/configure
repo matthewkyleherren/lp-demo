@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>Customize Backyard – Samara</title>
+
+        
+
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="initial-scale=1, width=device-width, viewport-fit=cover"
+        />
+
+            <meta name="description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+
+        <meta name="author" content="Samara" />
+        <meta name="copyright" content="Samara, Inc." />
+
+        <meta property="og:site_name" content="Samara" />
+        <meta property="og:title" content="Customize Backyard – Samara" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="/assets/remote/a02d2050-630d-403d-d386-ccb3506c2300/w=1200" />
+        <meta
+            property="og:url"
+            content="https://www.samara.com/backyard/configure/"
+        />
+
+            <meta property="og:description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+
+        
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@samara" />
+        <meta name="twitter:title" content="Customize Backyard – Samara" />
+
+            <meta name="twitter:description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+
+        <meta name="twitter:image" content="/assets/remote/a02d2050-630d-403d-d386-ccb3506c2300/w=1200" />
+
+        <meta name="theme-color" content="#000000" />
+
+
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon76x.png"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon180x.png"
+            sizes="180x180"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon152x.png"
+            sizes="152x152"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon120x.png"
+            sizes="120x120"
+        />
+        <link
+            rel="shortcut icon"
+            href="/assets/images/favicons/icon64x.png"
+            sizes="64x64"
+            type="image/png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="/assets/images/favicons/favicon.png"
+        />
+        <link
+            rel="preload"
+            href="/assets/fonts/regola-book.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+        <link
+            rel="preload"
+            href="/assets/fonts/regola-light.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+
+        <style>
+            html {
+                opacity: 0;
+            }
+        </style>
+
+        <link href="/assets/stylesheets/index.css" rel="stylesheet" />
+
+            
+            
+
+            <script src="/assets/javascripts/index.js"></script>
+            <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
+    </head>
+
+    <body class="no-javascript backyard configurator" data-slug="/backyard/configure">
+    
+<nav
+    class="main-navigation collapsed "
+    data-tooltip-disabled
+>
+        <button class="toggle">
+            <span class="top">
+                <span></span>
+            </span>
+            <span class="bottom">
+                <span></span>
+            </span>
+        </button>
+
+    <a href="/" class="logo">
+        <img
+            src="/assets/images/logo.svg"
+            width="116"
+            height="24"
+            alt="Samara"
+            loading="lazy"
+        />
+    </a>
+
+    <div class="main-navigation-list">
+        <div class="main-navigation-list-container type-15">
+            <ul>
+                <li>
+                    <a href="/backyard" class="alt">Backyard</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <ol class="desktop-hidden">
+                        <li>
+                            <a href="/backyard/studio">Studio</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/one-bedroom">One bedroom</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/xl-8">XL 8</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/xl-10">XL 10</a>
+                        </li>
+                    </ol>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/how-it-works">How it works</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/financing">Financing</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/showrooms">Showrooms</a>
+                </li>
+            </ul>
+            <ol class="mobile-hidden">
+                <li>
+                    <a href="/backyard/studio">Studio</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/xl-8">XL 8</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/xl-10">XL 10</a>
+                    <span></span>
+                </li>
+            </ol>
+            <hr class="mobile-hidden"></hr>
+        </div>
+    </div>
+
+    <a
+        href="/backyard/configure"
+        class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
+    >
+        Design yours
+    </a>
+
+    <a
+        onclick="getQuickEstimate(event, { variant: 'wildfires' })"
+        href="/"
+        class="backyard-configure button-rounded button-rounded-blue get-in-touch"
+    >
+        <span>Get in touch</span>
+    </a>
+
+    <a
+        href="/developers"
+        class="multiunit backyard-configure button-rounded button-rounded-blue"
+    >
+        <img
+            src="/assets/images/icons/phone-white.svg"
+            loading="lazy" alt="Phone icon"
+        />
+        <span>Get in touch</span>
+    </a>
+
+    <a
+        href="/backyard/financing"
+        class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
+        onclick="getYourRate(event)"
+    >
+        Get your rate estimate
+    </a>
+</nav>
+
+
+    <main>
+        <div class="page">
+                
+        </div>
+    </main>
+
+    <div id="calculator"></div>
+    <div id="contact"></div>
+    <div id="tooltip" >
+    <div class="tooltip-container">
+        <svg class="arrow-left" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4.87021 0.000151566L5.8403 1.01123L2.57369 4.46575L15 4.46575L15 5.89811L2.57369 5.89811L5.8601 9.37369L4.89001 10.3848L-4.54847e-07 5.18193L4.87021 0.000151566Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+        <svg class="xmark" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.219527 11.4185C0.131636 11.3354 0.0730424 11.2378 0.0437456 11.1255C0.0193315 11.0132 0.0217729 10.9009 0.0510698 10.7886C0.0803667 10.6763 0.136519 10.5786 0.219527 10.4956L4.90703 5.80078L0.219527 1.11328C0.136519 1.03027 0.0803667 0.932617 0.0510698 0.820312C0.0266557 0.708008 0.0266557 0.595703 0.0510698 0.483398C0.0803667 0.371094 0.136519 0.273438 0.219527 0.19043C0.302535 0.102539 0.400191 0.0463867 0.512496 0.0219727C0.6248 -0.00732422 0.737105 -0.00732422 0.84941 0.0219727C0.966597 0.0463867 1.06669 0.102539 1.1497 0.19043L5.8372 4.87793L10.5247 0.19043C10.6077 0.102539 10.7054 0.0463867 10.8177 0.0219727C10.93 -0.00732422 11.0423 -0.00732422 11.1546 0.0219727C11.2669 0.0463867 11.367 0.102539 11.4549 0.19043C11.5379 0.273438 11.594 0.371094 11.6233 0.483398C11.6526 0.595703 11.6526 0.708008 11.6233 0.820312C11.594 0.932617 11.5379 1.03027 11.4549 1.11328L6.76738 5.80078L11.4549 10.4956C11.5379 10.5786 11.5916 10.6763 11.616 10.7886C11.6453 10.9009 11.6453 11.0132 11.616 11.1255C11.5916 11.2378 11.5379 11.3354 11.4549 11.4185C11.3719 11.5063 11.2718 11.5625 11.1546 11.5869C11.0423 11.6162 10.93 11.6162 10.8177 11.5869C10.7054 11.5576 10.6077 11.5015 10.5247 11.4185L5.8372 6.73096L1.1497 11.4185C1.06669 11.5015 0.969039 11.5576 0.856734 11.5869C0.744429 11.6162 0.632124 11.6162 0.51982 11.5869C0.407515 11.5576 0.307417 11.5015 0.219527 11.4185Z" fill="black" />
+        </svg>
+        <svg class="pause" width="12" height="13" viewBox="0 0 7 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.904419 12.769C0.733521 12.769 0.587036 12.7104 0.464966 12.5933C0.342896 12.4761 0.28186 12.3296 0.28186 12.1538V1.2627C0.28186 1.0918 0.342896 0.947754 0.464966 0.830566C0.587036 0.713379 0.733521 0.654785 0.904419 0.654785C1.0802 0.654785 1.22913 0.713379 1.3512 0.830566C1.47327 0.947754 1.5343 1.0918 1.5343 1.2627V12.1538C1.5343 12.3296 1.47327 12.4761 1.3512 12.5933C1.22913 12.7104 1.0802 12.769 0.904419 12.769ZM5.74573 12.769C5.57483 12.769 5.42834 12.7104 5.30627 12.5933C5.1842 12.4761 5.12317 12.3296 5.12317 12.1538V1.2627C5.12317 1.0918 5.1842 0.947754 5.30627 0.830566C5.42834 0.713379 5.57483 0.654785 5.74573 0.654785C5.92151 0.654785 6.07043 0.713379 6.1925 0.830566C6.31458 0.947754 6.37561 1.0918 6.37561 1.2627V12.1538C6.37561 12.3296 6.31458 12.4761 6.1925 12.5933C6.07043 12.7104 5.92151 12.769 5.74573 12.769Z" fill="black" />
+        </svg>
+        <svg class="play" width="12" height="13" viewBox="0 0 12 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.414185 11.2354V1.06934C0.414185 0.703125 0.504517 0.43457 0.685181 0.263672C0.865845 0.0878906 1.08069 0 1.32971 0C1.54944 0 1.77405 0.0634766 2.00354 0.19043L10.5363 5.17822C10.839 5.354 11.049 5.5127 11.1661 5.6543C11.2882 5.79102 11.3492 5.95703 11.3492 6.15234C11.3492 6.34277 11.2882 6.50879 11.1661 6.65039C11.049 6.79199 10.839 6.95068 10.5363 7.12646L2.00354 12.1143C1.77405 12.2412 1.54944 12.3047 1.32971 12.3047C1.08069 12.3047 0.865845 12.2168 0.685181 12.041C0.504517 11.8652 0.414185 11.5967 0.414185 11.2354ZM1.59338 10.7153C1.59338 10.7788 1.6178 10.8252 1.66663 10.8545C1.71545 10.8789 1.76672 10.874 1.82043 10.8398L9.65002 6.26953C9.70374 6.24023 9.73059 6.20117 9.73059 6.15234C9.73059 6.09375 9.70374 6.05469 9.65002 6.03516L1.82043 1.46484C1.76672 1.43066 1.71545 1.42822 1.66663 1.45752C1.6178 1.48193 1.59338 1.52588 1.59338 1.58936V10.7153Z" fill="black"/>
+        </svg>
+        <span class="type-18"></span>
+        <svg class="arrow-right" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.1298 10.3846L9.1597 9.37354L12.4263 5.91902H0V4.48666H12.4263L9.1399 1.01108L10.11 0L15 5.20284L10.1298 10.3846Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+    </div>
+</div>
+
+</body>
+
+</html>

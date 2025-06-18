@@ -1,0 +1,538 @@
+    
+
+<div class="spacer-150 m-spacer-120"></div>
+<div class="spacer-32 l-spacer-0"></div>
+
+<div class="page-section">
+	<div class="page-section-container">
+		<div class="modern-grid">
+			<div class="column-1 l-column-0 m-column-0"></div>
+			<div class="column-10 l-column-12 m-column-6">
+				<h1 class="type-120 l-type-72 m-type-60">
+					California ADU<br /> requirement guides
+				</h1>
+				<div class="spacer-36"></div>
+				<div class="backyard-models-header-content type-balanced">
+					<div class="backyard-models-header-content-subtitle">
+						<p class="type-24-light l-type-21-light">
+							We've decoded local ADU requirements so you don't
+							have to.
+						</p>
+						<p class="type-24-light l-type-21-light color-text-60">
+							See what's required in your area.
+						</p>
+					</div>
+					<div class="backyard-models-navigation guides-navigation type-15 m-type-12">
+							<a class="button-inner-navigation" href="#norcal">
+								Northern CA
+							</a>
+							<a class="button-inner-navigation" href="#socal">
+								Southern CA
+							</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="spacer-150 l-spacer-72 m-spacer-64"></div>
+
+		<div class="modern-grid m-modern-grid-full">
+			<div class="column-12 m-column-6 guides-index-video">
+				<video
+					loading="lazy"
+					muted
+					loop
+					playsinline
+					preload="none"
+					poster="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/d48b6e6d137e486c1a7015ea5368558e/thumbnails/thumbnail.jpg?width=600">
+					<source
+						src="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/d48b6e6d137e486c1a7015ea5368558e/downloads/default.mp4"
+						type="video/mp4" />
+				</video>
+			</div>
+		</div>
+
+		<div class="spacer-100 l-spacer-64 m-spacer-50"></div>
+
+		<div class="modern-grid">
+			<div class="column-2 l-column-0 m-column-0"></div>
+			<div class="column-8 l-column-12 m-column-6">
+				<h2 class="type-center type-balanced type-48 l-type-36 m-type-24-light">
+					You’ll need a permit from your local planning department to
+					build an ADU. While California has statewide ADU laws, each
+					city interprets them differently and can add their own
+					restrictions.
+				</h2>
+			</div>
+		</div>
+
+		<div class="spacer-72 l-spacer-64"></div>
+
+		<div class="modern-grid">
+			<div class="column-12 type-center type-24-light l-type-21-light m-type-18-light color-text-80">
+				Here’s the good news: we handle everything, from permits to
+				financing.
+			</div>
+		</div>
+
+		<div class="spacer-18"></div>
+
+		<div class="modern-grid">
+			<div class="column-12 guides-cta">
+				<div class="guides-cta-button color-text-60 type-18 l-type-15" onclick="openRoute('/backyard')">
+					<img
+						src="/assets/images/insights/guides/guides-cta-button/guides-cta-button-120.webp"
+						width="60"
+						height="60"
+						alt="Learn more" />
+					<div class="guides-cta-button-text">
+						Skip the headache and work<br />
+						with Samara. &nbsp;<a href="/backyard">Learn more</a>
+						<svg
+							width="15"
+							height="12"
+							viewBox="0 0 15 12"
+							fill="none"
+							xmlns="http://www.w3.org/2000/svg">
+							<path
+								d="M14.1011 6.05176C14.1011 6.2373 14.0278 6.40088 13.8813 6.54248L9.01074 11.3984C8.86914 11.5352 8.71045 11.6035 8.53467 11.6035C8.354 11.6035 8.20264 11.5425 8.08057 11.4204C7.9585 11.3032 7.89746 11.1543 7.89746 10.9736C7.89746 10.8857 7.91211 10.8027 7.94141 10.7246C7.9707 10.6416 8.01465 10.5708 8.07324 10.5122L9.71387 8.84229L12.6216 6.19824L12.7681 6.55713L10.4097 6.70361H1.14453C0.954102 6.70361 0.797852 6.64258 0.675781 6.52051C0.558594 6.39844 0.5 6.24219 0.5 6.05176C0.5 5.86133 0.558594 5.70508 0.675781 5.58301C0.797852 5.46094 0.954102 5.3999 1.14453 5.3999H10.4097L12.7681 5.54639L12.6216 5.9126L9.71387 3.26123L8.07324 1.59131C8.01465 1.53271 7.9707 1.46436 7.94141 1.38623C7.91211 1.30322 7.89746 1.21777 7.89746 1.12988C7.89746 0.949219 7.9585 0.800293 8.08057 0.683105C8.20264 0.561035 8.354 0.5 8.53467 0.5C8.62256 0.5 8.70557 0.51709 8.78369 0.55127C8.8667 0.585449 8.94727 0.641602 9.02539 0.719727L13.8813 5.56104C14.0278 5.70264 14.1011 5.86621 14.1011 6.05176Z"
+								fill="#0096F7" />
+						</svg>
+					</div>
+				</div>
+			</div>
+		</div>
+
+			<div class="modern-grid">
+				<div class="column-1 l-column-0 m-column-0"></div>
+				<div class="column-10 l-column-12 m-column-6">
+					<div class="spacer-150 l-spacer-100 m-spacer-72" id="norcal"></div>
+					<h3 class="type-60 m-type-48">
+						Northern California
+					</h3>
+					<div class="spacer-64 l-spacer-50 m-spacer-36"></div>
+					<div class="guides-cities">
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/cupertino-adu"
+							>
+								Cupertino
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/marin-county-adu"
+							>
+								Marin County
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/palo-alto-adu"
+							>
+								Palo Alto
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/san-mateo-adu"
+							>
+								San Mateo
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/santa-clara-adu"
+							>
+								Santa Clara
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/santa-cruz-adu"
+							>
+								Santa Cruz
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/santa-rosa-adu"
+							>
+								Santa Rosa
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/saratoga-adu"
+							>
+								Saratoga
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/walnut-creek-adu"
+							>
+								Walnut Creek
+							</a>
+					</div>
+					<div class="spacer-36"></div>
+				</div>
+			</div>
+			<div class="modern-grid">
+				<div class="column-1 l-column-0 m-column-0"></div>
+				<div class="column-10 l-column-12 m-column-6">
+					<div class="spacer-150 l-spacer-100 m-spacer-72" id="socal"></div>
+					<h3 class="type-60 m-type-48">
+						Southern California
+					</h3>
+					<div class="spacer-64 l-spacer-50 m-spacer-36"></div>
+					<div class="guides-cities">
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/carlsbad-adu"
+							>
+								Carlsbad
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/orange-county-adu"
+							>
+								Orange County
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/santa-barbara-adu"
+							>
+								Santa Barbara
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/thousand-oaks-adu"
+							>
+								Thousand Oaks
+							</a>
+							<a 
+								class="type-24-light l-type-21-light m-type-18-light"
+								href="/backyard/guides/ventura-county-adu"
+							>
+								Ventura County
+							</a>
+					</div>
+					<div class="spacer-36"></div>
+				</div>
+			</div>
+
+		<div class="spacer-100 m-spacer-72"></div>
+
+<div class="insights-module insights-module-lineup modern-grid type-center">
+    <div class="column-12 m-column-6">
+        <h1 class="type-48 l-type-36 m-type-36">
+            Samara has an ADU for every yard.
+        </h1>
+        <h1 class="type-48 l-type-36 m-type-36 color-text-40">
+            Choose from five prefab models.
+        </h1>
+        <div class="spacer-16"></div>
+        <div class="insights-module-lineup-container">
+            <div class="insights-module-lineup-controls">
+                <button class="insights-module-lineup-control">
+                    <img
+                        src="/assets/images/icons/chevron-grey.svg"
+                        width="9"
+                        height="17"
+                        alt="&larr;"
+                    />
+                </button>
+                <button class="insights-module-lineup-control">
+                    <img
+                        src="/assets/images/icons/chevron-grey.svg"
+                        width="9"
+                        height="17"
+                        alt="&larr;"
+                    />
+                </button>
+            </div>
+            <div class="insights-module-lineup-scroll">
+                <a href="/backyard/xl-10" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        <span class="alt">Backyard</span> XL&thinsp;10
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/xl-10/xl-10-800.webp"
+            width="310"
+            height="144"
+            alt="Backyard XL 10"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Small living,<br class="desktop-hidden" /> supersized.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        950 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bath<span class="mobile-hidden">s</span>
+    </div>
+</a>
+
+                <a href="/backyard/xl-8" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        <span class="alt">Backyard</span> XL&thinsp;8
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/xl-8/xl-8-800.webp"
+            width="310"
+            height="144"
+            alt="Backyard XL 8"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Room to roam,<br class="desktop-hidden" /> and then some.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        800 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bath<span class="mobile-hidden">s</span>
+    </div>
+</a>
+
+                <a href="/backyard/two-bedroom" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        Two bedroom
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/two-bedroom/two-bedroom-800.webp"
+            width="310"
+            height="144"
+            alt="Two bedroom"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Two bedrooms.<br class="desktop-hidden" /> Too perfect.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        690 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+                <a href="/backyard/one-bedroom" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        One bedroom
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/one-bedroom/one-bedroom-800.webp"
+            width="310"
+            height="144"
+            alt="One bedroom"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        The one and only<br class="desktop-hidden" /> for everything.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        540 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bed<span class="mobile-hidden">room</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+                <a href="/backyard/studio" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        Studio
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/studio/studio-800.webp"
+            width="310"
+            height="144"
+            alt="Studio"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Way small.<br class="desktop-hidden" /> Yay big.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        420 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="spacer-100 m-spacer-72"></div>
+
+	</div>
+</div>
+
+<div class="page-section insights-story-footer">
+	<div class="page-section-container">
+		<div class="spacer-80 l-spacer-36 m-spacer-0"></div>
+		<div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+        <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/insights/how-we-built-a-fire-resistant-ADU">
+	<div class="doorway-item-foreground">
+		<div>Fire resistant by design.</div>
+		<nobr class="nobr">Learn more <img
+			class="doorway-item-arrow"
+			src="/assets/images/icons/arrow-right-black.svg"
+			width="24"
+			height="16"
+			alt="→"
+			loading="lazy"
+		/></nobr>
+	</div>
+	<img
+		class="doorway-item-background"
+		srcset="/assets/images/doorway/doorway-fire-resistant-mobile/doorway-fire-resistant-mobile-1200.webp 768w, /assets/images/doorway/doorway-fire-resistant/doorway-fire-resistant-720.webp"
+		alt=""
+		loading="lazy"
+		width="315"
+		height="432"
+	/>
+</a>
+</div>
+
+		<div class="spacer-120 m-spacer-72"></div>
+		<div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">Samara</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+                <li><a href="/backyard/guides">Local guides</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2025 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+	</div>
+</div>
+

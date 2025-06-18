@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>The Complete San Mateo ADU Requirements Guide — Samara</title>
+
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Samara",
+                "legalName": "Samara Living, Inc.",
+                "url": "https://www.samara.com",
+                "logo": "https://www.samara.com/assets/images/logo-bimi.svg",
+                "description": "Discover Samara's Backyard homes and ADUs. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready.",
+                "email": "customercare@samara.com",
+                "telephone": "+1-650-260-6503",
+                "address": [{
+                    "@type": "PostalAddress",
+                    "streetAddress": "2840 Bay Road",
+                    "addressLocality": "Redwood City",
+                    "addressCountry": "US",
+                    "addressRegion": "CA",
+                    "postalCode": "94063"
+                }],
+                "image": [
+                    "https://www.samara.com/assets/remote/e58d3876-3093-4be9-a717-35f8070e4400",
+                    "https://www.samara.com/assets/remote/6536502d-8c91-4e1a-0eee-e70ade6ccd00",
+                    "https://www.samara.com/assets/remote/e7244590-13c9-431e-69f4-a2242a352700",
+                    "https://www.samara.com/assets/remote/83cfff3f-2f56-4a5e-80c3-55c52978e200",
+                    "https://www.samara.com/assets/remote/dba03306-df3d-4421-92a3-d9989e2caf00"
+                ]
+            }
+        </script>
+
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="initial-scale=1, width=device-width, viewport-fit=cover"
+        />
+
+            <meta name="description" content="Learn about San Mateo’s ADU standards so your ADU building process is as simple and straightforward as possible. " />
+
+        <meta name="author" content="Samara" />
+        <meta name="copyright" content="Samara, Inc." />
+
+        <meta property="og:site_name" content="Samara" />
+        <meta property="og:title" content="The Complete San Mateo ADU Requirements Guide — Samara" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://www.samara.com/assets/remote/ddbedbdf-2363-49a4-d87f-a7a74b34a600/w=1200" />
+        <meta
+            property="og:url"
+            content="https://www.samara.com/backyard/guides/san-mateo-adu/"
+        />
+
+            <meta property="og:description" content="Learn about San Mateo’s ADU standards so your ADU building process is as simple and straightforward as possible. " />
+
+        
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@samara" />
+        <meta name="twitter:title" content="The Complete San Mateo ADU Requirements Guide — Samara" />
+
+            <meta name="twitter:description" content="Learn about San Mateo’s ADU standards so your ADU building process is as simple and straightforward as possible. " />
+
+        <meta name="twitter:image" content="https://www.samara.com/assets/remote/ddbedbdf-2363-49a4-d87f-a7a74b34a600/w=1200" />
+
+        <meta name="theme-color" content="#000000" />
+
+
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon76x.png"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon180x.png"
+            sizes="180x180"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon152x.png"
+            sizes="152x152"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="/assets/images/favicons/icon120x.png"
+            sizes="120x120"
+        />
+        <link
+            rel="shortcut icon"
+            href="/assets/images/favicons/icon64x.png"
+            sizes="64x64"
+            type="image/png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="/assets/images/favicons/favicon.png"
+        />
+        <link
+            rel="preload"
+            href="/assets/fonts/regola-book.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+        <link
+            rel="preload"
+            href="/assets/fonts/regola-light.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+
+        <style>
+            html {
+                opacity: 0;
+            }
+        </style>
+
+        <link href="/assets/stylesheets/index.css?d56dbca07bd61b2f7b0b146656c57a2a.css" rel="stylesheet" />
+
+            <script
+                id="sentry-script"
+                defer
+                src="https://js.sentry-cdn.com/6239eb46ed1b0d72b5c7186827b1f830.min.js"
+                crossorigin="anonymous"
+            ></script>
+
+            <script
+                defer
+                src="https://www.googletagmanager.com/gtag/js?id=AW-11027142108"
+            ></script>
+            <script
+                defer
+                src="https://www.googletagmanager.com/gtag/js?id=G-Y1SW8E75MN"
+            ></script>
+            <script src="/assets/javascripts/trackers.js?d56dbca07bd61b2f7b0b146656c57a2a.js"></script>
+
+            <script src="/assets/javascripts/index.js?d56dbca07bd61b2f7b0b146656c57a2a.js"></script>
+            <script src="/assets/javascripts/contact/bundle.js?d56dbca07bd61b2f7b0b146656c57a2a.js" defer="defer"></script>
+    </head>
+
+    <body class="no-javascript backyard insights insights-post" data-slug="/backyard/guides/san-mateo-adu">
+    
+<nav
+    class="main-navigation collapsed "
+    data-tooltip-disabled
+>
+        <button class="toggle">
+            <span class="top">
+                <span></span>
+            </span>
+            <span class="bottom">
+                <span></span>
+            </span>
+        </button>
+
+    <a href="/" class="logo">
+        <img
+            src="/assets/images/logo.svg"
+            width="116"
+            height="24"
+            alt="Samara"
+            loading="lazy"
+        />
+    </a>
+
+    <div class="main-navigation-list">
+        <div class="main-navigation-list-container type-15">
+            <ul>
+                <li>
+                    <a href="/backyard" class="alt">Backyard</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <ol class="desktop-hidden">
+                        <li>
+                            <a href="/backyard/studio">Studio</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/one-bedroom">One bedroom</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/xl-8">XL 8</a>
+                        </li>
+                        <li>
+                            <a href="/backyard/xl-10">XL 10</a>
+                        </li>
+                    </ol>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/how-it-works">How it works</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/backyard/financing">Financing</a>
+                </li>
+                <li class="backyard-menu-item">
+                    <a href="/showrooms">Showrooms</a>
+                </li>
+            </ul>
+            <ol class="mobile-hidden">
+                <li>
+                    <a href="/backyard/studio">Studio</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/xl-8">XL 8</a>
+                    <span></span>
+                </li>
+                <li>
+                    <a href="/backyard/xl-10">XL 10</a>
+                    <span></span>
+                </li>
+            </ol>
+            <hr class="mobile-hidden"></hr>
+        </div>
+    </div>
+
+    <a
+        href="/backyard/configure"
+        class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
+    >
+        Design yours
+    </a>
+
+    <a
+        onclick="getQuickEstimate(event, { variant: 'wildfires' })"
+        href="/"
+        class="backyard-configure button-rounded button-rounded-blue get-in-touch"
+    >
+        <span>Get in touch</span>
+    </a>
+
+    <a
+        href="/developers"
+        class="multiunit backyard-configure button-rounded button-rounded-blue"
+    >
+        <img
+            src="/assets/images/icons/phone-white.svg"
+            loading="lazy" alt="Phone icon"
+        />
+        <span>Get in touch</span>
+    </a>
+
+    <a
+        href="/backyard/financing"
+        class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
+        onclick="getYourRate(event)"
+    >
+        Get your rate estimate
+    </a>
+</nav>
+
+
+    <main>
+        <div class="page">
+                
+<div class="page-section" style="background: #fdfdf7">
+    <div class="page-section-container insights-post-body">
+
+        <div class="spacer-32 m-spacer-0"></div>
+        <div class="spacer-150 m-spacer-100"></div>
+
+        <div class="modern-grid">
+            <div class="column-2 m-column-0"></div>
+            <div class="column-8 m-column-6 color-text-60 type-center type-15 insights-post-breadcrumbs">
+                    <a href="/backyard/guides">Local guides</a>
+                <span class="middot-divider">•</span>
+                    San Mateo
+                    <span class="middot-divider">•</span>
+                
+                <time>March 20, 2025</time>
+            </div>
+        </div>
+
+        <div class="spacer-24 m-spacer-16"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <h1 class="type-72 m-type-36 type-center">
+                    The Complete San Mateo ADU Requirements Guide
+                </h1>
+            </div>
+        </div>
+
+        <div class="spacer-16 l-spacer-0 m-spacer-0"></div>
+        <div class="spacer-72 m-spacer-60"></div>
+
+
+
+
+                    <div class="modern-grid ">
+                            <div class="column-1 l-column-0 m-column-0"></div>
+                            <div class="column-10 l-column-12 m-column-6">
+
+                        <img src="https://www.samara.com/assets/remote/43a07bac-8b58-4896-6750-c1fb3aea3e00/w=2200" alt="A one-bedroom ADU from Samara out for delivery in San Mateo, California." class="newsroom-internal-image " width="2200" height="1237" />
+
+                            <div class="spacer-16 m-spacer-8"></div>
+                            <div style="display: flex; justify-content: space-between; gap: 12px">
+                                <div class="type-14 m-type-12">
+                                    Above: <span class="color-text-60">A one-bedroom ADU from Samara out for delivery in San Mateo, California.</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                        <div class="spacer-16 l-spacer-0 m-spacer-0"></div>
+                        <div class="spacer-72 m-spacer-60"></div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+
+
+                        <h4 class="type-30-light m-type-21-light">
+                            If you’re thinking of building an <a href="https://www.cityofsanmateo.org/3907/Accessory-Dwelling-Unit-ADU" target="_blank">accessory dwelling unit (ADU) in San Mateo</a>, it’s important to learn the regulations. Thanks to a series of state laws promoting ADU construction in California, building an ADU in San Mateo is a straightforward process.
+
+                        </h4>
+
+                            <div class="spacer-100 l-spacer-80 m-spacer-72"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>An ADU is a self-contained living unit that shares a lot with a larger main residence. Whether used to earn rental income, house family, or create a home office, ADUs add value to your lot.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>Read on to learn everything you need to know about the requirements for building an ADU in San Mateo and how <a href="https://www.samara.com/backyard/how-it-works">Samara can make the construction process even easier</a>.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-64 m-spacer-50"></div>
+
+
+                        <h2 class="type-36 m-type-30">
+                            San Mateo ADU regulations at a glance
+
+                        </h2>
+
+                            <div class="spacer-36 m-spacer-24"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>The city of San Mateo is obligated to review your ADU permit submission <a href="https://www.cityofsanmateo.org/DocumentCenter/View/89871/San-Mateo-ADU-Handout-1222?bidId=" target="_blank">within 60 days</a>. You can expect the full permitting process to take three to four months from your first submittal date. Here’s what you need to know as you plan your ADU:</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-36 m-spacer-24"></div>
+
+
+                        <h3 class="type-24-light">
+                            Size and lot requirements
+
+                        </h3>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>Size regulations for ADUs in San Mateo vary based on the Floor Area Ratio (FAR) required by your property’s zoning district. While 800-square-foot ADUs are permitted citywide, larger units must conform to the standards of your specific zoning district.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                        <ul class="type-18-light m-type-15">
+                                    <li>
+                                        <strong>Detached ADUs:</strong> One-bedroom detached ADUs can reach 850 square feet, while two-bedroom detached ADUs can be to 1,000 square feet. The height limit is 16 feet to the top of the plate line and 24 feet to the roof peak.
+                                            <div class="spacer-16"></div>
+                                    </li>
+                                    <li>
+                                        <strong>Attached ADUs:</strong> An ADU conversion within the walls of an existing primary dwelling or accessory structure is not subject to size regulations. The maximum height is 24 feet to the top of the plate line and 32 feet to the roof peak.
+                                            <div class="spacer-16"></div>
+                                    </li>
+                                    <li>
+                                        <strong>Junior ADUs</strong> are capped at 500 square feet.
+                                    </li>
+                        </ul>
+                        <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>Additionally, all San Mateo ADUs should have setbacks of at least four feet from the rear and side yard property lines.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-36 m-spacer-24"></div>
+
+
+                        <h3 class="type-24-light">
+                            Design requirements
+
+                        </h3>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>San Mateo ADUs are required to comply with specific design standards. All ADUs require careful window placement: windows must be offset from neighboring properties’ windows, and any second-story windows within five feet of a residential lot line require obscured glazing.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>For visual cohesion, attached ADUs must match the architectural style of the structure they are attached to, using similar building materials, finishes, and paint colors.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="spacer-100 m-spacer-72"></div>
+
+<div class="insights-module insights-module-lineup modern-grid type-center">
+    <div class="column-12 m-column-6">
+        <h1 class="type-48 l-type-36 m-type-36">
+            Samara has an ADU for every yard.
+        </h1>
+        <h1 class="type-48 l-type-36 m-type-36 color-text-40">
+            Choose from five prefab models.
+        </h1>
+        <div class="spacer-16"></div>
+        <div class="insights-module-lineup-container">
+            <div class="insights-module-lineup-controls">
+                <button class="insights-module-lineup-control">
+                    <img
+                        src="/assets/images/icons/chevron-grey.svg"
+                        width="9"
+                        height="17"
+                        alt="&larr;"
+                    />
+                </button>
+                <button class="insights-module-lineup-control">
+                    <img
+                        src="/assets/images/icons/chevron-grey.svg"
+                        width="9"
+                        height="17"
+                        alt="&larr;"
+                    />
+                </button>
+            </div>
+            <div class="insights-module-lineup-scroll">
+                <a href="/backyard/xl-10" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        <span class="alt">Backyard</span> XL&thinsp;10
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/xl-10/xl-10-800.webp"
+            width="310"
+            height="144"
+            alt="Backyard XL 10"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Small living,<br class="desktop-hidden" /> supersized.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        950 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bath<span class="mobile-hidden">s</span>
+    </div>
+</a>
+
+                <a href="/backyard/xl-8" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        <span class="alt">Backyard</span> XL&thinsp;8
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/xl-8/xl-8-800.webp"
+            width="310"
+            height="144"
+            alt="Backyard XL 8"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Room to roam,<br class="desktop-hidden" /> and then some.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        800 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bath<span class="mobile-hidden">s</span>
+    </div>
+</a>
+
+                <a href="/backyard/two-bedroom" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        Two bedroom
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/two-bedroom/two-bedroom-800.webp"
+            width="310"
+            height="144"
+            alt="Two bedroom"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Two bedrooms.<br class="desktop-hidden" /> Too perfect.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        690 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>2 bed<span class="mobile-hidden">rooms</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+                <a href="/backyard/one-bedroom" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        One bedroom
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/one-bedroom/one-bedroom-800.webp"
+            width="310"
+            height="144"
+            alt="One bedroom"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        The one and only<br class="desktop-hidden" /> for everything.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        540 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bed<span class="mobile-hidden">room</span><span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+                <a href="/backyard/studio" class="insights-module-lineup-model">
+    <div class="insights-module-lineup-model-name type-18 color-text-60">
+        Studio
+    </div>
+    <div class="insights-module-lineup-model-image">
+        <div class="insights-module-lineup-model-image-fade"></div>
+        <img
+            src="/assets/images/insights/modules/lineup/studio/studio-800.webp"
+            width="310"
+            height="144"
+            alt="Studio"
+        />
+        <div class="insights-module-lineup-model-image-fade"></div>
+    </div>
+    <div class="insights-module-lineup-model-title type-18-light">
+        Way small.<br class="desktop-hidden" /> Yay big.
+    </div>
+    <div class="insights-module-lineup-model-features type-14 color-text-60">
+        420 sq. ft.<span class="color-text-20 insights-module-lineup-model-features-divider">|</span>1 bath
+    </div>
+</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="spacer-100 m-spacer-72"></div>
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-36 m-spacer-24"></div>
+
+
+                        <h3 class="type-24-light">
+                            Parking requirements
+
+                        </h3>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>All ADUs in San Mateo require <a href="https://www.cityofsanmateo.org/DocumentCenter/View/88881/ADU-JADU-Handout?bidId=" target="_blank">one off-street parking space</a>. It can be located anywhere on the site, including your driveway or setback areas. The parking requirement can be waived if you live within a half mile of a public transit stop or in a historic district. JADUs do not require parking.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-36 m-spacer-24"></div>
+
+
+                        <h3 class="type-24-light">
+                            Zoning eligibility
+
+                        </h3>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>ADUs in San Mateo can be constructed on any residentially zoned property, whether single- or multi-family. JADUs are not allowed on mixed-used properties.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-36 m-spacer-24"></div>
+
+
+                        <h3 class="type-24-light">
+                            Number of ADUs allowed
+
+                        </h3>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>On single-family properties, <a href="https://www.smcgov.org/media/137136/download?inline" target="_blank">one ADU is allowed per lot</a>.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>For multi-family properties, up to eight detached ADUs are allowed. Non-residential spaces, such as storage areas or offices, can be converted into ADUs as long as the total number of conversions is not greater than 25 percent of the existing unit count.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="spacer-100 m-spacer-72"></div>
+
+<div class="insights-module-explore-customer-profile modern-grid">
+    <div class="column-1 l-column-2"></div>
+    <div class="column-10 l-column-8">
+        <div class="insights-module-explore-customer-profile-container">
+            <a class="insights-module-explore-customer-profile-text" href="/insights/life-with-backyard-meet-the-kurodas">
+                <h1 class="type-48 l-type-42 m-type-36">Our customers:<br />delighted.</h1>
+                <div class="type-24-light l-type-21 m-type-18-light">Learn why our customers<br /> love their Samara ADUs.</div>
+            </a>
+            <div class="insights-module-explore-customer-profile-media">
+                <a href="/insights/life-with-backyard-meet-the-kurodas">
+                    <video
+                        muted loop playsinline preload="none" loading="lazy" poster="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/a740225302b2fed9096b40fff9363db9/thumbnails/thumbnail.jpg?width=1200"
+                    >
+                        <source
+                            src="https://customer-rzhtf894oui3z1e3.cloudflarestream.com/a740225302b2fed9096b40fff9363db9/downloads/default.mp4"
+                            type="video/mp4"
+                        />
+                    </video>
+                </a>
+                <a class="type-14 insights-module-explore-customer-profile-media-link" href="/insights/life-with-backyard-meet-the-kurodas">
+                    <img
+                        src="/assets/images/insights/kurodas-thumbnail/kurodas-thumbnail-150.webp"
+                        width="48"
+                        height="48"
+                        alt="Read the customer profile"
+                    />
+                    Meet the Kurodas<br />
+                    <span class="color-text-40">
+                        Read the customer profile
+                        <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M11.2163 5.41699C11.2163 5.57568 11.1528 5.72168 11.0259 5.84229L7.0459 9.82227C6.9126 9.94287 6.7793 10 6.62695 10C6.30322 10 6.06201 9.76514 6.06201 9.44141C6.06201 9.28906 6.11914 9.13672 6.2207 9.03516L7.56641 7.67041L9.50879 5.89941L8.07422 5.98828H0.577637C0.234863 5.98828 0 5.75342 0 5.41699C0 5.07422 0.234863 4.83936 0.577637 4.83936H8.07422L9.50244 4.92822L7.56641 3.15723L6.2207 1.79248C6.11914 1.69092 6.06201 1.53857 6.06201 1.38623C6.06201 1.0625 6.30322 0.827637 6.62695 0.827637C6.7793 0.827637 6.91895 0.884766 7.05859 1.01807L11.0259 4.98535C11.1528 5.10596 11.2163 5.2583 11.2163 5.41699Z" fill="rgba(0,0,0,0.4)"/>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="spacer-100 m-spacer-72"></div>
+
+
+
+                <div class="modern-grid">
+                    <div class="column-3 l-column-2 m-column-0"></div>
+                    <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                                <div class="spacer-64 m-spacer-50"></div>
+
+
+                        <h2 class="type-36 m-type-30">
+                            Streamline your ADU in San Mateo
+
+                        </h2>
+
+                            <div class="spacer-36 m-spacer-24"></div>
+                    </div>
+                </div>
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>If you’re looking to build an ADU, Samara makes it easy. We handle everything from permits to installation, including <a href="https://www.samara.com/backyard/financing">ADU financing options</a>. Call us at <a href="tel:650-420-2607">650-420-2607</a> to schedule a 15-minute consultation and discover how simple adding a Backyard ADU can be.</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                <div class="spacer-24"></div>
+
+
+
+                <div class="spacer-24"></div>
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
+                            <div class="type-18-light m-type-15">
+                                <p>Sources:</p>
+
+                            </div>
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body type-18-light m-type-15">
+                            <p><a href="https://www.cityofsanmateo.org/DocumentCenter/View/89871/San-Mateo-ADU-Handout-1222?bidId=" target="_blank">City of San Mateo: Accessory Dwelling Unit Handbook</a></p>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body type-18-light m-type-15">
+                            <p><a href="https://www.cityofsanmateo.org/DocumentCenter/View/88881/ADU-JADU-Handout?bidId=" target="_blank">City of San Mateo: ADU Standards and Requirements</a></p>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body type-18-light m-type-15">
+                            <p><a href="https://www.cityofsanmateo.org/3907/Accessory-Dwelling-Unit-ADU" target="_blank">City of San Mateo Accessory Dwelling Unit Information and Resources</a></p>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="modern-grid">
+                        <div class="column-3 l-column-2 m-column-0"></div>
+                        <div class="column-6 l-column-8 m-column-6 newsroom-internal-body type-18-light m-type-15">
+                            <p><a href="https://www.smcgov.org/media/137136/download?inline" target="_blank">City of San Mateo Accessory Dwelling Unit Ordinance</a></p>
+
+                            <div class="spacer-24 m-spacer-16"></div>
+                        </div>
+                    </div>
+
+
+
+                <div class="spacer-80"></div>
+<div class="modern-grid">
+    <div class="column-12 m-column-6">
+        <div class="insights-module-explore-the-lineup">
+            <h1 class="type-48 l-type-30-light m-type-30-light color-text-80">
+                With five prefab models, Samara has an ADU for every yard.<br />
+                <a href="/backyard/models">
+                    Explore the lineup
+                    <svg style="width: auto; height: 0.55em" width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M21.7617 8.82227C21.7617 9.08008 21.6602 9.31055 21.457 9.51367L13.6172 17.3418C13.4141 17.5371 13.1875 17.6348 12.9375 17.6348C12.6797 17.6348 12.4648 17.5488 12.293 17.377C12.1211 17.2129 12.0352 17.002 12.0352 16.7441C12.0352 16.6191 12.0547 16.502 12.0938 16.3926C12.1406 16.2754 12.2031 16.1738 12.2812 16.0879L15.3398 12.9941L19.6875 9.02148L19.8867 9.53711L16.2656 9.73633H0.902344C0.636719 9.73633 0.417969 9.65039 0.246094 9.47852C0.0820312 9.30664 0 9.08789 0 8.82227C0 8.55664 0.0820312 8.33789 0.246094 8.16602C0.417969 7.99414 0.636719 7.9082 0.902344 7.9082H16.2656L19.8867 8.10742L19.6875 8.63477L15.3398 4.65039L12.2812 1.55664C12.2031 1.4707 12.1406 1.37305 12.0938 1.26367C12.0547 1.14648 12.0352 1.02539 12.0352 0.900391C12.0352 0.642578 12.1211 0.431641 12.293 0.267578C12.4648 0.0957031 12.6797 0.00976562 12.9375 0.00976562C13.0625 0.00976562 13.1836 0.0371094 13.3008 0.0917969C13.418 0.138672 13.5352 0.220703 13.6523 0.337891L21.457 8.13086C21.6602 8.33398 21.7617 8.56445 21.7617 8.82227Z" fill="#0096F7" style="fill:#0096F7;fill:color(display-p3 0.0000 0.5882 0.9686);fill-opacity:1;"/>
+                    </svg>
+                </a>
+            </h1>
+            <a href="/backyard/models">
+                <img
+                    loading="lazy"
+                    alt="Backyard one bedroom"
+                    width="4000"
+                    height="926"
+                    src="/assets/images/backyard/front-elevations/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front-4016.webp"
+                />
+            </a>
+        </div>
+    </div>
+</div>
+<div class="spacer-80 m-spacer-36"></div>
+
+
+
+
+    </div>
+</div>
+
+<div class="page-section insights-story-footer">
+    <div class="page-section-container">
+        <div class="spacer-64 m-spacer-36"></div>
+        <div class="modern-grid">
+    <div class="column-3 m-column-0"></div>
+    <div class="column-6 m-column-6 newsroom-internal-share type-14 m-type-12 type-regola-regular">
+        <div class="color-text-60">Share:</div>
+        <a
+            onclick="Newsroom.copyLink(event)"
+            target="_blank"
+        >
+            <div class="newsroom-internal-feedback type-14 m-type-12">Link copied</div>
+            Copy link
+        </a>
+        <a
+            onclick="location = `mailto:?subject=The Complete San Mateo ADU Requirements Guide&body=${location.href}`"
+        >
+            Email
+        </a>
+        <a
+            onclick="window.open(`https://twitter.com/intent/tweet?text=${location.href}`)"
+        >
+            X
+        </a>
+        <a
+            onclick="window.open(`https://www.facebook.com/sharer/sharer.php?u=${location.href}`)"
+        >
+            Facebook
+        </a>
+    </div>
+</div>
+
+        <div class="spacer-100"></div>
+        <div class="spacer-100 m-spacer-0"></div>
+        <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+        <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/insights/how-we-built-a-fire-resistant-ADU">
+	<div class="doorway-item-foreground">
+		<div>Fire resistant by design.</div>
+		<nobr class="nobr">Learn more <img
+			class="doorway-item-arrow"
+			src="/assets/images/icons/arrow-right-black.svg"
+			width="24"
+			height="16"
+			alt="→"
+			loading="lazy"
+		/></nobr>
+	</div>
+	<img
+		class="doorway-item-background"
+		srcset="/assets/images/doorway/doorway-fire-resistant-mobile/doorway-fire-resistant-mobile-1200.webp 768w, /assets/images/doorway/doorway-fire-resistant/doorway-fire-resistant-720.webp"
+		alt=""
+		loading="lazy"
+		width="315"
+		height="432"
+	/>
+</a>
+</div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">Samara</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+                <li><a href="/backyard/guides">Local guides</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2025 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+
+        </div>
+    </main>
+
+    <div id="calculator"></div>
+    <div id="contact"></div>
+    <div id="tooltip" >
+    <div class="tooltip-container">
+        <svg class="arrow-left" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4.87021 0.000151566L5.8403 1.01123L2.57369 4.46575L15 4.46575L15 5.89811L2.57369 5.89811L5.8601 9.37369L4.89001 10.3848L-4.54847e-07 5.18193L4.87021 0.000151566Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+        <svg class="xmark" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.219527 11.4185C0.131636 11.3354 0.0730424 11.2378 0.0437456 11.1255C0.0193315 11.0132 0.0217729 10.9009 0.0510698 10.7886C0.0803667 10.6763 0.136519 10.5786 0.219527 10.4956L4.90703 5.80078L0.219527 1.11328C0.136519 1.03027 0.0803667 0.932617 0.0510698 0.820312C0.0266557 0.708008 0.0266557 0.595703 0.0510698 0.483398C0.0803667 0.371094 0.136519 0.273438 0.219527 0.19043C0.302535 0.102539 0.400191 0.0463867 0.512496 0.0219727C0.6248 -0.00732422 0.737105 -0.00732422 0.84941 0.0219727C0.966597 0.0463867 1.06669 0.102539 1.1497 0.19043L5.8372 4.87793L10.5247 0.19043C10.6077 0.102539 10.7054 0.0463867 10.8177 0.0219727C10.93 -0.00732422 11.0423 -0.00732422 11.1546 0.0219727C11.2669 0.0463867 11.367 0.102539 11.4549 0.19043C11.5379 0.273438 11.594 0.371094 11.6233 0.483398C11.6526 0.595703 11.6526 0.708008 11.6233 0.820312C11.594 0.932617 11.5379 1.03027 11.4549 1.11328L6.76738 5.80078L11.4549 10.4956C11.5379 10.5786 11.5916 10.6763 11.616 10.7886C11.6453 10.9009 11.6453 11.0132 11.616 11.1255C11.5916 11.2378 11.5379 11.3354 11.4549 11.4185C11.3719 11.5063 11.2718 11.5625 11.1546 11.5869C11.0423 11.6162 10.93 11.6162 10.8177 11.5869C10.7054 11.5576 10.6077 11.5015 10.5247 11.4185L5.8372 6.73096L1.1497 11.4185C1.06669 11.5015 0.969039 11.5576 0.856734 11.5869C0.744429 11.6162 0.632124 11.6162 0.51982 11.5869C0.407515 11.5576 0.307417 11.5015 0.219527 11.4185Z" fill="black" />
+        </svg>
+        <svg class="pause" width="12" height="13" viewBox="0 0 7 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.904419 12.769C0.733521 12.769 0.587036 12.7104 0.464966 12.5933C0.342896 12.4761 0.28186 12.3296 0.28186 12.1538V1.2627C0.28186 1.0918 0.342896 0.947754 0.464966 0.830566C0.587036 0.713379 0.733521 0.654785 0.904419 0.654785C1.0802 0.654785 1.22913 0.713379 1.3512 0.830566C1.47327 0.947754 1.5343 1.0918 1.5343 1.2627V12.1538C1.5343 12.3296 1.47327 12.4761 1.3512 12.5933C1.22913 12.7104 1.0802 12.769 0.904419 12.769ZM5.74573 12.769C5.57483 12.769 5.42834 12.7104 5.30627 12.5933C5.1842 12.4761 5.12317 12.3296 5.12317 12.1538V1.2627C5.12317 1.0918 5.1842 0.947754 5.30627 0.830566C5.42834 0.713379 5.57483 0.654785 5.74573 0.654785C5.92151 0.654785 6.07043 0.713379 6.1925 0.830566C6.31458 0.947754 6.37561 1.0918 6.37561 1.2627V12.1538C6.37561 12.3296 6.31458 12.4761 6.1925 12.5933C6.07043 12.7104 5.92151 12.769 5.74573 12.769Z" fill="black" />
+        </svg>
+        <svg class="play" width="12" height="13" viewBox="0 0 12 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.414185 11.2354V1.06934C0.414185 0.703125 0.504517 0.43457 0.685181 0.263672C0.865845 0.0878906 1.08069 0 1.32971 0C1.54944 0 1.77405 0.0634766 2.00354 0.19043L10.5363 5.17822C10.839 5.354 11.049 5.5127 11.1661 5.6543C11.2882 5.79102 11.3492 5.95703 11.3492 6.15234C11.3492 6.34277 11.2882 6.50879 11.1661 6.65039C11.049 6.79199 10.839 6.95068 10.5363 7.12646L2.00354 12.1143C1.77405 12.2412 1.54944 12.3047 1.32971 12.3047C1.08069 12.3047 0.865845 12.2168 0.685181 12.041C0.504517 11.8652 0.414185 11.5967 0.414185 11.2354ZM1.59338 10.7153C1.59338 10.7788 1.6178 10.8252 1.66663 10.8545C1.71545 10.8789 1.76672 10.874 1.82043 10.8398L9.65002 6.26953C9.70374 6.24023 9.73059 6.20117 9.73059 6.15234C9.73059 6.09375 9.70374 6.05469 9.65002 6.03516L1.82043 1.46484C1.76672 1.43066 1.71545 1.42822 1.66663 1.45752C1.6178 1.48193 1.59338 1.52588 1.59338 1.58936V10.7153Z" fill="black"/>
+        </svg>
+        <span class="type-18"></span>
+        <svg class="arrow-right" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.1298 10.3846L9.1597 9.37354L12.4263 5.91902H0V4.48666H12.4263L9.1399 1.01108L10.11 0L15 5.20284L10.1298 10.3846Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+    </div>
+</div>
+
+</body>
+
+</html>
