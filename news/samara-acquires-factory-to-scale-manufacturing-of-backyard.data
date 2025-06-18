@@ -208,14 +208,17 @@
     <div class="modern-grid">
         <div class="column-3 m-column-0"></div>
             <div class="column-3 m-column-6">
-                <div class="type-18">Addy Bhasin</div>
-                    <div class="type-18 color-text-60">LaunchSquad</div>
+                <div class="type-18">Addy Bhasin
+</div>
+                    <div class="type-18 color-text-60">LaunchSquad
+</div>
                 <div class="spacer-4"></div>
                 <a class="type-15" href="mailto:abhasin@launchsquad.com">abhasin@launchsquad.com</a>
                 <div class="spacer-0 m-spacer-16"></div>
             </div>
             <div class="column-3 m-column-6">
-                <div class="type-18">Samara Press Helpline</div>
+                <div class="type-18">Samara Press Helpline
+</div>
                 <div class="spacer-4"></div>
                 <a class="type-15" href="mailto:press@samara.com">press@samara.com</a>
                 <div class="spacer-0 m-spacer-16"></div>
@@ -330,7 +333,7 @@
             loading="lazy"
             width="315"
             height="432"
-        />
+        />/ladies
     </a>
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
@@ -387,13 +390,13 @@
                 <li><a href="/insights">Insights</a></li>
                 <li><a href="/jobs">Jobs</a></li>
                 <li><a href="/showrooms">Showrooms</a></li>
-                <li><a href="/developers">For Developers</a></li>
-        </ul>
-        <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/ladiesrs">For Developers</a></li>
+        </ul>/ladies
+        <ul class="column-3">/ladies
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
                 <li><a href="/backyard/financing">Financing</a></li>
                 <li><a href="/backyard/faq">FAQ</a></li>
                 <li><a href="/backyard/guides">Local guides</a></li>

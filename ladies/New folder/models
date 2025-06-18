@@ -22,7 +22,7 @@
         <meta property="og:image" content="/assets/remote/28663ada-d1e4-451f-90af-131a0b1e1700/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/backyard/models/"
+            content="https://www.samara.com/ladies/models/"
         />
 
             <meta property="og:description" content="Explore the full lineup of Samara's Backyard ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
@@ -100,7 +100,7 @@
             <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
     </head>
 
-    <body class="no-javascript backyard backyard-models backyard-models-index" data-slug="/backyard/models">
+    <body class="no-javascript backyard backyard-models backyard-models-index" data-slug="/ladies/models">
     
 <nav
     class="main-navigation collapsed inverted"
@@ -129,33 +129,33 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/backyard" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Backyard</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
                     <ol class="desktop-hidden">
                         <li>
-                            <a href="/backyard/studio">Studio</a>
+                            <a href="/ladies/studio">Studio</a>
                         </li>
                         <li>
-                            <a href="/backyard/one-bedroom">One bedroom</a>
+                            <a href="/ladies/one-bedroom">One bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                            <a href="/ladies/two-bedroom">Two bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-8">XL 8</a>
+                            <a href="/ladies/xl-8">XL 8</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-10">XL 10</a>
+                            <a href="/ladies/xl-10">XL 10</a>
                         </li>
                     </ol>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/how-it-works">How it works</a>
+                    <a href="/ladies/how-it-works">How it works</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/financing">Financing</a>
+                    <a href="/ladies/financing">Financing</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/showrooms">Showrooms</a>
@@ -163,23 +163,23 @@
             </ul>
             <ol class="mobile-hidden">
                 <li>
-                    <a href="/backyard/studio">Studio</a>
+                    <a href="/ladies/studio">Studio</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <a href="/ladies/one-bedroom">One bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <a href="/ladies/two-bedroom">Two bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-8">XL 8</a>
+                    <a href="/ladies/xl-8">XL 8</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-10">XL 10</a>
+                    <a href="/ladies/xl-10">XL 10</a>
                     <span></span>
                 </li>
             </ol>
@@ -188,7 +188,7 @@
     </div>
 
     <a
-        href="/backyard/configure"
+        href="/ladies/configure"
         class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
     >
         Design yours
@@ -214,7 +214,7 @@
     </a>
 
     <a
-        href="/backyard/financing"
+        href="/ladies/financing"
         class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
         onclick="getYourRate(event)"
     >
@@ -260,7 +260,7 @@
                         2 baths
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/backyard/xl-10"><img loading="lazy" src="/assets/images/backyard/models/models-index-xl-10/models-index-xl-10-1000.webp" alt="Backyard XL 10" /></a>
+                        <a href="/ladies/xl-10"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-10/models-index-xl-10-1000.webp" alt="Backyard XL 10" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -269,8 +269,8 @@
                     </div>
                     <div class="spacer-24"></div>
                     <div class="models-lineup-scroll-model-actions">
-                        <a href="/backyard/xl-10" class="button-rounded button-squared button-rounded-blue">Explore</a>
-                        <a href="/backyard/configure#bonewhite+xl-10" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                        <a href="/ladies/xl-10" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/ladies/configure#bonewhite+xl-10" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model">
@@ -286,7 +286,7 @@
                         2 baths
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/backyard/xl-8"><img loading="lazy" src="/assets/images/backyard/models/models-index-xl-8/models-index-xl-8-1000.webp" alt="Backyard XL 8" /></a>
+                        <a href="/ladies/xl-8"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-8/models-index-xl-8-1000.webp" alt="Backyard XL 8" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -295,8 +295,8 @@
                     </div>
                     <div class="spacer-24"></div>
                     <div class="models-lineup-scroll-model-actions">
-                        <a href="/backyard/xl-8" class="button-rounded button-squared button-rounded-blue">Explore</a>
-                        <a href="/backyard/configure#bonewhite+xl-8" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                        <a href="/ladies/xl-8" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/ladies/configure#bonewhite+xl-8" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model">
@@ -312,7 +312,7 @@
                         1 bath
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/backyard/two-bedroom"><img loading="lazy" src="/assets/images/backyard/models/models-index-twobed/models-index-twobed-1000.webp" alt="Two bedroom" /></a>
+                        <a href="/ladies/two-bedroom"><img loading="lazy" src="/assets/images/ladies/models/models-index-twobed/models-index-twobed-1000.webp" alt="Two bedroom" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -321,8 +321,8 @@
                     </div>
                     <div class="spacer-24"></div>
                     <div class="models-lineup-scroll-model-actions">
-                        <a href="/backyard/two-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
-                        <a href="/backyard/configure#bonewhite+twobed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                        <a href="/ladies/two-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/ladies/configure#bonewhite+twobed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model">
@@ -338,7 +338,7 @@
                         1 bath
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/backyard/one-bedroom"><img loading="lazy" src="/assets/images/backyard/models/models-index-onebed/models-index-onebed-1000.webp" alt="One bedroom" /></a>
+                        <a href="/ladies/one-bedroom"><img loading="lazy" src="/assets/images/ladies/models/models-index-onebed/models-index-onebed-1000.webp" alt="One bedroom" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -347,8 +347,8 @@
                     </div>
                     <div class="spacer-24"></div>
                     <div class="models-lineup-scroll-model-actions">
-                        <a href="/backyard/one-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
-                        <a href="/backyard/configure#bonewhite+onebed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                        <a href="/ladies/one-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/ladies/configure#bonewhite+onebed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model">
@@ -362,7 +362,7 @@
                         1 bath
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/backyard/studio"><img loading="lazy" src="/assets/images/backyard/models/models-index-studio/models-index-studio-1000.webp" alt="Studio" /></a>
+                        <a href="/ladies/studio"><img loading="lazy" src="/assets/images/ladies/models/models-index-studio/models-index-studio-1000.webp" alt="Studio" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -371,13 +371,13 @@
                     </div>
                     <div class="spacer-24"></div>
                     <div class="models-lineup-scroll-model-actions">
-                        <a href="/backyard/studio" class="button-rounded button-squared button-rounded-blue">Explore</a>
-                        <a href="/backyard/configure#bonewhite+studio" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                        <a href="/ladies/studio" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/ladies/configure#bonewhite+studio" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model models-lineup-scroll-model-cant-decide">
                     <div class="models-lineup-scroll-model-cant-decide-container">
-                        <img loading="lazy" src="/assets/images/backyard/models/models-lineup-scroll-model-cant-decide/models-lineup-scroll-model-cant-decide-1000.webp" width="324" height="454" alt="Can’t decide? We can help.">
+                        <img loading="lazy" src="/assets/images/ladies/models/models-lineup-scroll-model-cant-decide/models-lineup-scroll-model-cant-decide-1000.webp" width="324" height="454" alt="Can’t decide? We can help.">
                         <h4 class="type-36 m-type-42 color-white">Can’t decide?<br /> We can help.</h4>
                         <button class="button-rounded button-squared button-rounded-grey type-regola-regular" onclick="Contact.show()">Get in touch</button>
                     </div>
@@ -389,7 +389,7 @@
             <div class="modern-grid page-section-container">
                 <div class="column-1"></div>
                 <div class="column-10">
-                    <a class="type-30 m-type-18 models-lineup-compare-link" href="/backyard/compare">
+                    <a class="type-30 m-type-18 models-lineup-compare-link" href="/ladies/compare">
                         Compare detailed specs
                         <svg style="width: auto; height: 0.55em" width="33" height="22" viewBox="0 0 33 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M22.1687 21.427L20.0935 19.3942L27.0812 12.4489H0.5V9.5692H27.0812L20.0512 2.58159L22.1263 0.548828L32.5865 11.0091L22.1687 21.427Z" fill="#0096F7"/>
@@ -411,7 +411,7 @@
                 <img
                     data-models-parallax="0.0,0.1"
                     data-models-parallax-mobile="-0.05,0.1"
-                    src="/assets/images/backyard/models/models-index-collage-one/models-index-collage-one-2000.webp"
+                    src="/assets/images/ladies/models/models-index-collage-one/models-index-collage-one-2000.webp"
                     width="935"
                     height="623"
                 />
@@ -419,7 +419,7 @@
                 <div data-models-parallax="-0.25,0.05" data-models-parallax-mobile="0.0,0.05">
                     <p class="mobile-hidden type-15 m-type-18-light">Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Backyard adapts to your life—no matter what life throws at you.</p>
                     <img
-                        src="/assets/images/backyard/models/models-index-collage-two/models-index-collage-two-1000.webp"
+                        src="/assets/images/ladies/models/models-index-collage-two/models-index-collage-two-1000.webp"
                         width="428"
                         height="280"
                     />
@@ -484,7 +484,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -541,13 +541,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

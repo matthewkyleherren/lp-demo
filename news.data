@@ -1043,7 +1043,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -1100,13 +1100,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

@@ -22,7 +22,7 @@
         <meta property="og:image" content="/assets/remote/525b3d2c-6270-4ef5-d824-ecd2f4edd000/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/backyard/faq/"
+            content="https://www.samara.com/ladies/faq/"
         />
 
             <meta property="og:description" content="Find answers to the most asked questions about Backyard: building regulations, financial planning, construction, and more." />
@@ -100,7 +100,7 @@
             <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
     </head>
 
-    <body class="no-javascript backyard faq" data-slug="/backyard/faq">
+    <body class="no-javascript backyard faq" data-slug="/ladies/faq">
     
 <nav
     class="main-navigation collapsed "
@@ -129,33 +129,33 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/backyard" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Backyard</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
                     <ol class="desktop-hidden">
                         <li>
-                            <a href="/backyard/studio">Studio</a>
+                            <a href="/ladies/studio">Studio</a>
                         </li>
                         <li>
-                            <a href="/backyard/one-bedroom">One bedroom</a>
+                            <a href="/ladies/one-bedroom">One bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                            <a href="/ladies/two-bedroom">Two bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-8">XL 8</a>
+                            <a href="/ladies/xl-8">XL 8</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-10">XL 10</a>
+                            <a href="/ladies/xl-10">XL 10</a>
                         </li>
                     </ol>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/how-it-works">How it works</a>
+                    <a href="/ladies/how-it-works">How it works</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/financing">Financing</a>
+                    <a href="/ladies/financing">Financing</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/showrooms">Showrooms</a>
@@ -163,23 +163,23 @@
             </ul>
             <ol class="mobile-hidden">
                 <li>
-                    <a href="/backyard/studio">Studio</a>
+                    <a href="/ladies/studio">Studio</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <a href="/ladies/one-bedroom">One bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <a href="/ladies/two-bedroom">Two bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-8">XL 8</a>
+                    <a href="/ladies/xl-8">XL 8</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-10">XL 10</a>
+                    <a href="/ladies/xl-10">XL 10</a>
                     <span></span>
                 </li>
             </ol>
@@ -188,7 +188,7 @@
     </div>
 
     <a
-        href="/backyard/configure"
+        href="/ladies/configure"
         class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
     >
         Design yours
@@ -214,7 +214,7 @@
     </a>
 
     <a
-        href="/backyard/financing"
+        href="/ladies/financing"
         class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
         onclick="getYourRate(event)"
     >
@@ -494,7 +494,7 @@
                                 <div class="answer type-18 m-type-15">
                                     <div class="bubble">
 
-                            <p class='type-18 m-type-15'>We offer <a href="https://www.samara.com/backyard/financing">Financing for Backyard</a>, a second mortgage with lower rates and more flexible terms than your typical first mortgage. To learn more about Financing for Backyard, click <a href="https://www.samara.com/backyard/financing">here</a>.</p>
+                            <p class='type-18 m-type-15'>We offer <a href="https://www.samara.com/ladies/financing">Financing for Backyard</a>, a second mortgage with lower rates and more flexible terms than your typical first mortgage. To learn more about Financing for Backyard, click <a href="https://www.samara.com/ladies/financing">here</a>.</p>
                             <p class='type-18 m-type-15'>Other financing options typically include cash-out refinances, home equity lines of credit (HELOCs), home equity loans, and renovation or construction loans.</p>
                             <p class='type-18 m-type-15'>Our team can help you find the right financing for your specific situation.</p>
                                                 </div> 
@@ -912,13 +912,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

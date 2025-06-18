@@ -24,9 +24,9 @@
                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
                     <tr valign="top">
                         <td width="33%">
-                            <a href="/backyard/xl-8">
+                            <a href="/ladies/xl-8">
                                 <img
-                                    src="/assets/images/backyard/models/models-index-xl-8/models-index-xl-8-1000.webp"
+                                    src="/assets/images/ladies/models/models-index-xl-8/models-index-xl-8-1000.webp"
                                     alt=""
                                     width="365"
                                     height="185"
@@ -45,9 +45,9 @@
 
                         </td>
                         <td width="33%">
-                            <a href="/backyard/two-bedroom">
+                            <a href="/ladies/two-bedroom">
                                 <img
-                                    src="/assets/images/backyard/models/models-index-twobed/models-index-twobed-1000.webp"
+                                    src="/assets/images/ladies/models/models-index-twobed/models-index-twobed-1000.webp"
                                     alt=""
                                     width="365"
                                     height="185"
@@ -66,9 +66,9 @@
 
                         </td>
                         <td width="33%">
-                            <a href="/backyard/one-bedroom">
+                            <a href="/ladies/one-bedroom">
                                 <img
-                                    src="/assets/images/backyard/models/models-index-onebed/models-index-onebed-1000.webp"
+                                    src="/assets/images/ladies/models/models-index-onebed/models-index-onebed-1000.webp"
                                     alt=""
                                     width="365"
                                     height="185"
@@ -324,7 +324,7 @@
                     <td width="33%" data-layout="studio" hidden>
                         <div class="backyard-compare-floorplan">
     <img
-        src="/assets/images/backyard/compare/studio-vertical.svg"
+        src="/assets/images/ladies/compare/studio-vertical.svg"
         width="150"
         height="290"
         alt="Floor plan"
@@ -332,13 +332,13 @@
     />
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
         <span class="type-14 m-type-12 color-text-40">15'</span>
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
     </div>
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
         <span class="type-14 m-type-12 color-text-40">29'</span>
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
     </div>
 </div>
 <div class="spacer-24"></div>
@@ -347,7 +347,7 @@
                     <td width="33%" data-layout="onebed">
                         <div class="backyard-compare-floorplan">
     <img
-        src="/assets/images/backyard/compare/onebed-vertical.svg"
+        src="/assets/images/ladies/compare/onebed-vertical.svg"
         width="150"
         height="370"
         alt="Floor plan"
@@ -355,13 +355,13 @@
     />
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
         <span class="type-14 m-type-12 color-text-40">15'</span>
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
     </div>
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
         <span class="type-14 m-type-12 color-text-40">37'</span>
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
     </div>
 </div>
 <div class="spacer-24"></div>
@@ -370,7 +370,7 @@
                     <td width="33%" data-layout="twobed">
                         <div class="backyard-compare-floorplan">
     <img
-        src="/assets/images/backyard/compare/twobed-vertical.svg"
+        src="/assets/images/ladies/compare/twobed-vertical.svg"
         width="150"
         height="470"
         alt="Floor plan"
@@ -378,13 +378,13 @@
     />
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
         <span class="type-14 m-type-12 color-text-40">15'</span>
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
     </div>
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
         <span class="type-14 m-type-12 color-text-40">47'</span>
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
     </div>
 </div>
 <div class="spacer-24"></div>
@@ -393,7 +393,7 @@
                     <td width="33%" data-layout="xl-8">
                         <div class="backyard-compare-floorplan">
     <img
-        src="/assets/images/backyard/compare/xl-8-vertical.svg"
+        src="/assets/images/ladies/compare/xl-8-vertical.svg"
         width="250"
         height="320"
         alt="Floor plan"
@@ -401,13 +401,13 @@
     />
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
         <span class="type-14 m-type-12 color-text-40">25'</span>
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
     </div>
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
         <span class="type-14 m-type-12 color-text-40">32'</span>
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
     </div>
 </div>
 <div class="spacer-24"></div>
@@ -416,7 +416,7 @@
                     <td width="33%" data-layout="xl-10" hidden>
                         <div class="backyard-compare-floorplan">
     <img
-        src="/assets/images/backyard/compare/xl-10.svg"
+        src="/assets/images/ladies/compare/xl-10.svg"
         width="250"
         height="380"
         alt="Floor plan"
@@ -424,13 +424,13 @@
     />
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
         <span class="type-14 m-type-12 color-text-40">25'</span>
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
     </div>
     <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
         <span class="type-14 m-type-12 color-text-40">38'</span>
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
     </div>
 </div>
 <div class="spacer-24"></div>
@@ -2510,7 +2510,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -2567,13 +2567,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

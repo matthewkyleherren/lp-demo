@@ -22,7 +22,7 @@
         <meta property="og:image" content="/assets/remote/a02d2050-630d-403d-d386-ccb3506c2300/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/backyard/configure/"
+            content="https://www.samara.com/ladies/configure/"
         />
 
             <meta property="og:description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
@@ -100,7 +100,7 @@
             <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
     </head>
 
-    <body class="no-javascript backyard configurator" data-slug="/backyard/configure">
+    <body class="no-javascript backyard configurator" data-slug="/ladies/configure">
     
 <nav
     class="main-navigation collapsed "
@@ -129,33 +129,33 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/backyard" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Backyard</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
                     <ol class="desktop-hidden">
                         <li>
-                            <a href="/backyard/studio">Studio</a>
+                            <a href="/ladies/studio">Studio</a>
                         </li>
                         <li>
-                            <a href="/backyard/one-bedroom">One bedroom</a>
+                            <a href="/ladies/one-bedroom">One bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                            <a href="/ladies/two-bedroom">Two bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-8">XL 8</a>
+                            <a href="/ladies/xl-8">XL 8</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-10">XL 10</a>
+                            <a href="/ladies/xl-10">XL 10</a>
                         </li>
                     </ol>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/how-it-works">How it works</a>
+                    <a href="/ladies/how-it-works">How it works</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/financing">Financing</a>
+                    <a href="/ladies/financing">Financing</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/showrooms">Showrooms</a>
@@ -163,23 +163,23 @@
             </ul>
             <ol class="mobile-hidden">
                 <li>
-                    <a href="/backyard/studio">Studio</a>
+                    <a href="/ladies/studio">Studio</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <a href="/ladies/one-bedroom">One bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <a href="/ladies/two-bedroom">Two bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-8">XL 8</a>
+                    <a href="/ladies/xl-8">XL 8</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-10">XL 10</a>
+                    <a href="/ladies/xl-10">XL 10</a>
                     <span></span>
                 </li>
             </ol>
@@ -188,7 +188,7 @@
     </div>
 
     <a
-        href="/backyard/configure"
+        href="/ladies/configure"
         class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
     >
         Design yours
@@ -214,7 +214,7 @@
     </a>
 
     <a
-        href="/backyard/financing"
+        href="/ladies/financing"
         class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
         onclick="getYourRate(event)"
     >

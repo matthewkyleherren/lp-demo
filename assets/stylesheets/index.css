@@ -4815,7 +4815,7 @@ h1 {
 }
 
 .banner-showroom {
-    background-image: url('/assets/images/backyard/banner-showroom/banner-showroom-1440.webp');
+    background-image: url('/assets/images/ladies/banner-showroom/banner-showroom-1440.webp');
     background-position: center 20%;
     background-size: cover
 }
@@ -7316,14 +7316,14 @@ body.faq {
     }
 
     .backyard .backyard-faq .faq-group {
-        background-image: url("/assets/images/backyard/faq-up.svg");
+        background-image: url("/assets/images/ladies/faq-up.svg");
         background-size: 0 0
     }
 
     .backyard .backyard-faq .faq-group h2 {
         margin-bottom: 18px;
         border-top: 1px solid rgba(0, 0, 0, .1);
-        background-image: url("/assets/images/backyard/faq-down.svg");
+        background-image: url("/assets/images/ladies/faq-down.svg");
         background-position: right 75%;
         background-repeat: no-repeat;
         padding-top: 18px;
@@ -7331,7 +7331,7 @@ body.faq {
     }
 
     .backyard .backyard-faq .faq-group h2:has(input:checked) {
-        background-image: url("/assets/images/backyard/faq-up.svg")
+        background-image: url("/assets/images/ladies/faq-up.svg")
     }
 
     .backyard .backyard-faq .faq-group h2 input {
@@ -11374,7 +11374,7 @@ nav.transition-configurator .backyard-configure {
         margin-left: 0
     }
 
-    body[data-slug="/backyard"] nav .backyard-configure.hidden-due-to-wildfires {
+    body[data-slug="/ladies"] nav .backyard-configure.hidden-due-to-wildfires {
         opacity: 0;
         pointer-events: none
     }

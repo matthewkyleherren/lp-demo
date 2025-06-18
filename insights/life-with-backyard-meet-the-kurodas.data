@@ -418,9 +418,9 @@
                 <div class="spacer-50 m-spacer-24"></div>
                 <div class="insights-story-model">
                     <div class="insights-story-model-image">
-                        <a href="/backyard/one-bedroom">
+                        <a href="/ladies/one-bedroom">
                             <img
-                                src="/assets/images/backyard/mini-configurator-v2/onebed-evergreen/onebed-evergreen-2200.webp"
+                                src="/assets/images/ladies/mini-configurator-v2/onebed-evergreen/onebed-evergreen-2200.webp"
                                 alt="One bedroom Backyard"
                                 loading="lazy"
                             />
@@ -436,8 +436,8 @@
                             <div class="spacer-12"></div>
                         </div>
                         <div class="insights-story-model-title-actions type-15 l-type-14 m-type-14">
-                            <a href="/backyard/one-bedroom">Explore</a>
-                            <a href="/backyard/configure#evergreen+onebed" class="insights-story-model-title-actions-design">
+                            <a href="/ladies/one-bedroom">Explore</a>
+                            <a href="/ladies/configure#evergreen+onebed" class="insights-story-model-title-actions-design">
                                 Design
                                 <img src="/assets/images/icons/box-blue.svg" width="14" height="16" alt="Design" />
                             </a>
@@ -531,7 +531,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -588,13 +588,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

@@ -28,7 +28,7 @@
 <div class="modern-grid m-modern-grid-full">
     <div class="column-12 m-column-6">
         <img
-            srcset="/assets/images/backyard/models/hero-studio-vertical/hero-studio-vertical-1400.webp 768w, /assets/images/backyard/models/hero-studio-horizontal/hero-studio-horizontal-3000.webp"
+            srcset="/assets/images/ladies/models/hero-studio-vertical/hero-studio-vertical-1400.webp 768w, /assets/images/ladies/models/hero-studio-horizontal/hero-studio-horizontal-3000.webp"
             width="1330"
             height="750"
             class="rounded-6 m-rounded-0 full-width backyard-models-header-image"
@@ -49,8 +49,8 @@
             <div class="column-5 m-column-6">
                 <img
                     srcset="
-                        /assets/images/backyard/models/intro-studio-mobile/intro-studio-mobile-800.webp 768w,
-                        /assets/images/backyard/models/intro-studio/intro-studio-1200.webp
+                        /assets/images/ladies/models/intro-studio-mobile/intro-studio-mobile-800.webp 768w,
+                        /assets/images/ladies/models/intro-studio/intro-studio-1200.webp
                     "
                     width="540"
                     height="720"
@@ -72,13 +72,13 @@
             <div class="backyard-models-floorplan-dimensions">
                 <div class="backyard-models-floorplan-dimensions-image">
                     <img
-                        src="/assets/images/backyard/models/studio-floorplan-horizontal/studio-floorplan-horizontal-2000.webp"
+                        src="/assets/images/ladies/models/studio-floorplan-horizontal/studio-floorplan-horizontal-2000.webp"
                         class="mobile-hidden"
                         style="transform: translateX(-2.5%)"
                         loading="lazy"
                     />
                     <img
-                        src="/assets/images/backyard/models/studio-floorplan-vertical/studio-floorplan-vertical-2000.webp"
+                        src="/assets/images/ladies/models/studio-floorplan-vertical/studio-floorplan-vertical-2000.webp"
                         class="desktop-hidden"
                         style="transform: scale(105%) translateX(1.5%) translateY(-1%)"
                         loading="lazy"
@@ -87,14 +87,14 @@
                 <div class="backyard-models-dimension backyard-models-dimension-horizontal">
                     <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">29'</div>
                     <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">15'</div>
-                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
                 </div>
                 <div class="backyard-models-dimension backyard-models-dimension-vertical">
                     <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">15'</div>
                     <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">29'</div>
-                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -110,13 +110,13 @@
         </div>
         <div class="mobile-hidden column-4 l-column-3 m-column-3 type-15 color-text-60 backyard-models-floorplan-download">
             Dimensioned plans:<br />
-            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+            <a href="/assets/documents/ladies%20Configurations%20December%202023.pdf" target="_blank">
                 Download catalog&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
             </a>
         </div>
         <div class="desktop-hidden m-column-6 type-15 m-type-14 color-text-60 backyard-models-floorplan-download">
             <div class="spacer-24"></div>
-            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+            <a href="/assets/documents/ladies%20Configurations%20December%202023.pdf" target="_blank">
                 Dimensioned plans&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
             </a>
         </div>
@@ -128,8 +128,8 @@
     <div class="backyard-models-interior" id="image-gallery">
     <img
         srcset="
-            /assets/images/backyard/models/interior-hero-studio-portrait/interior-hero-studio-portrait-1400.webp 768w,
-            /assets/images/backyard/models/interior-hero-studio/interior-hero-studio-3000.webp
+            /assets/images/ladies/models/interior-hero-studio-portrait/interior-hero-studio-portrait-1400.webp 768w,
+            /assets/images/ladies/models/interior-hero-studio/interior-hero-studio-3000.webp
         "
         width="1440"
         height="880"
@@ -152,8 +152,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/kitchen-studio/kitchen-studio-1125.jpg 768w,
-                            /assets/images/backyard/kitchen-studio/kitchen-studio-2000.jpg
+                            /assets/images/ladies/kitchen-studio/kitchen-studio-1125.jpg 768w,
+                            /assets/images/ladies/kitchen-studio/kitchen-studio-2000.jpg
                         "
                     />
                 </div>
@@ -168,8 +168,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/corridor-studio/corridor-studio-1125.jpg 768w,
-                            /assets/images/backyard/corridor-studio/corridor-studio-2000.jpg
+                            /assets/images/ladies/corridor-studio/corridor-studio-1125.jpg 768w,
+                            /assets/images/ladies/corridor-studio/corridor-studio-2000.jpg
                         "
                     />
                 </div>
@@ -184,8 +184,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-studio-hallway/interior-studio-hallway-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-studio-hallway/interior-studio-hallway-2000.jpg
+                            /assets/images/ladies/models/interior-studio-hallway/interior-studio-hallway-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-studio-hallway/interior-studio-hallway-2000.jpg
                         "
                     />
                 </div>
@@ -200,8 +200,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/bathroom/bathroom-1125.jpg 768w,
-                            /assets/images/backyard/bathroom/bathroom-2000.jpg
+                            /assets/images/ladies/bathroom/bathroom-1125.jpg 768w,
+                            /assets/images/ladies/bathroom/bathroom-2000.jpg
                         "
                     />
                 </div>
@@ -216,8 +216,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-carousel-studio-five/interior-carousel-studio-five-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-carousel-studio-five/interior-carousel-studio-five-2000.jpg
+                            /assets/images/ladies/models/interior-carousel-studio-five/interior-carousel-studio-five-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-carousel-studio-five/interior-carousel-studio-five-2000.jpg
                         "
                     />
                 </div>
@@ -249,21 +249,21 @@
         Able to be tucked just about anywhere, the studio Backyard is packed with surprise and delight at every corner. It’s 420 square feet, but you’d never think it.
     </div>
     <img
-        src="/assets/images/backyard/models/collage-studio-one/collage-studio-one-1400.webp"
+        src="/assets/images/ladies/models/collage-studio-one/collage-studio-one-1400.webp"
         class="backyard-models-collage-image-one-studio"
         loading="lazy"
             data-models-parallax="-0.2,0.2"
 
     />
     <img
-        src="/assets/images/backyard/models/collage-studio-two/collage-studio-two-1400.webp"
+        src="/assets/images/ladies/models/collage-studio-two/collage-studio-two-1400.webp"
         class="backyard-models-collage-image-two-studio"
         loading="lazy"
             data-models-parallax="-0.15,0.025"
 
     />
     <img
-        src="/assets/images/backyard/models/collage-studio-three/collage-studio-three-1400.webp"
+        src="/assets/images/ladies/models/collage-studio-three/collage-studio-three-1400.webp"
         class="backyard-models-collage-image-three-studio"
         loading="lazy"
             data-models-parallax="-0.1,0.01"
@@ -300,8 +300,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-onebed-alt/doorway-onebed-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-onebed/doorway-onebed-720.webp
+                /assets/images/ladies/models/doorway-onebed-alt/doorway-onebed-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-onebed/doorway-onebed-720.webp
             "
             alt="Our classic all-rounder."
             loading="lazy"
@@ -327,8 +327,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-twobed-alt/doorway-twobed-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-twobed/doorway-twobed-720.webp
+                /assets/images/ladies/models/doorway-twobed-alt/doorway-twobed-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-twobed/doorway-twobed-720.webp
             "
             alt="The ultimate flex."
             loading="lazy"
@@ -354,8 +354,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-xl-alt/doorway-xl-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-xl/doorway-xl-720.webp
+                /assets/images/ladies/models/doorway-xl-alt/doorway-xl-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-xl/doorway-xl-720.webp
             "
             alt="More to love."
             loading="lazy"
@@ -378,7 +378,7 @@
         <div class="column-1 m-column-0"></div>
         <div class="column-10 m-column-6">
             <img
-                src="/assets/images/backyard/models/specs-studio/specs-studio-2880.webp"
+                src="/assets/images/ladies/models/specs-studio/specs-studio-2880.webp"
                 width="1106"
                 height="622"
                 class="full-width rounded-6 m-rounded-0"
@@ -452,7 +452,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -581,7 +581,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -710,7 +710,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -853,7 +853,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -910,13 +910,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

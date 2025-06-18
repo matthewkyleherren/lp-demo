@@ -79,7 +79,7 @@
 
 		<div class="modern-grid">
 			<div class="column-12 guides-cta">
-				<div class="guides-cta-button color-text-60 type-18 l-type-15" onclick="openRoute('/backyard')">
+				<div class="guides-cta-button color-text-60 type-18 l-type-15" onclick="openRoute('/ladies')">
 					<img
 						src="/assets/images/insights/guides/guides-cta-button/guides-cta-button-120.webp"
 						width="60"
@@ -87,7 +87,7 @@
 						alt="Learn more" />
 					<div class="guides-cta-button-text">
 						Skip the headache and work<br />
-						with Samara. &nbsp;<a href="/backyard">Learn more</a>
+						with Samara. &nbsp;<a href="/ladies">Learn more</a>
 						<svg
 							width="15"
 							height="12"
@@ -114,55 +114,55 @@
 					<div class="guides-cities">
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/cupertino-adu"
+								href="/ladies/guides/cupertino-adu"
 							>
 								Cupertino
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/marin-county-adu"
+								href="/ladies/guides/marin-county-adu"
 							>
 								Marin County
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/palo-alto-adu"
+								href="/ladies/guides/palo-alto-adu"
 							>
 								Palo Alto
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/san-mateo-adu"
+								href="/ladies/guides/san-mateo-adu"
 							>
 								San Mateo
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/santa-clara-adu"
+								href="/ladies/guides/santa-clara-adu"
 							>
 								Santa Clara
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/santa-cruz-adu"
+								href="/ladies/guides/santa-cruz-adu"
 							>
 								Santa Cruz
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/santa-rosa-adu"
+								href="/ladies/guides/santa-rosa-adu"
 							>
 								Santa Rosa
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/saratoga-adu"
+								href="/ladies/guides/saratoga-adu"
 							>
 								Saratoga
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/walnut-creek-adu"
+								href="/ladies/guides/walnut-creek-adu"
 							>
 								Walnut Creek
 							</a>
@@ -181,31 +181,31 @@
 					<div class="guides-cities">
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/carlsbad-adu"
+								href="/ladies/guides/carlsbad-adu"
 							>
 								Carlsbad
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/orange-county-adu"
+								href="/ladies/guides/orange-county-adu"
 							>
 								Orange County
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/santa-barbara-adu"
+								href="/ladies/guides/santa-barbara-adu"
 							>
 								Santa Barbara
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/thousand-oaks-adu"
+								href="/ladies/guides/thousand-oaks-adu"
 							>
 								Thousand Oaks
 							</a>
 							<a 
 								class="type-24-light l-type-21-light m-type-18-light"
-								href="/backyard/guides/ventura-county-adu"
+								href="/ladies/guides/ventura-county-adu"
 							>
 								Ventura County
 							</a>
@@ -245,7 +245,7 @@
                 </button>
             </div>
             <div class="insights-module-lineup-scroll">
-                <a href="/backyard/xl-10" class="insights-module-lineup-model">
+                <a href="/ladies/xl-10" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
         <span class="alt">Backyard</span> XL&thinsp;10
     </div>
@@ -267,7 +267,7 @@
     </div>
 </a>
 
-                <a href="/backyard/xl-8" class="insights-module-lineup-model">
+                <a href="/ladies/xl-8" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
         <span class="alt">Backyard</span> XL&thinsp;8
     </div>
@@ -289,7 +289,7 @@
     </div>
 </a>
 
-                <a href="/backyard/two-bedroom" class="insights-module-lineup-model">
+                <a href="/ladies/two-bedroom" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
         Two bedroom
     </div>
@@ -311,7 +311,7 @@
     </div>
 </a>
 
-                <a href="/backyard/one-bedroom" class="insights-module-lineup-model">
+                <a href="/ladies/one-bedroom" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
         One bedroom
     </div>
@@ -333,7 +333,7 @@
     </div>
 </a>
 
-                <a href="/backyard/studio" class="insights-module-lineup-model">
+                <a href="/ladies/studio" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
         Studio
     </div>
@@ -413,7 +413,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -470,13 +470,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>

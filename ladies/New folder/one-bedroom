@@ -22,7 +22,7 @@
         <meta property="og:image" content="/assets/remote/f30ce6f7-e670-4bf3-82cc-d33910a66a00/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/backyard/one-bedroom/"
+            content="https://www.samara.com/ladies/one-bedroom/"
         />
 
             <meta property="og:description" content="Samara’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
@@ -100,7 +100,7 @@
             <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
     </head>
 
-    <body class="no-javascript backyard backyard-models backyard-models-onebed" data-slug="/backyard/one-bedroom">
+    <body class="no-javascript backyard backyard-models backyard-models-onebed" data-slug="/ladies/one-bedroom">
     
 <nav
     class="main-navigation collapsed "
@@ -129,33 +129,33 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/backyard" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Backyard</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/models" class="backyard-menu-item-models">Models</a>
+                    <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
                     <ol class="desktop-hidden">
                         <li>
-                            <a href="/backyard/studio">Studio</a>
+                            <a href="/ladies/studio">Studio</a>
                         </li>
                         <li>
-                            <a href="/backyard/one-bedroom">One bedroom</a>
+                            <a href="/ladies/one-bedroom">One bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/two-bedroom">Two bedroom</a>
+                            <a href="/ladies/two-bedroom">Two bedroom</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-8">XL 8</a>
+                            <a href="/ladies/xl-8">XL 8</a>
                         </li>
                         <li>
-                            <a href="/backyard/xl-10">XL 10</a>
+                            <a href="/ladies/xl-10">XL 10</a>
                         </li>
                     </ol>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/how-it-works">How it works</a>
+                    <a href="/ladies/how-it-works">How it works</a>
                 </li>
                 <li class="backyard-menu-item">
-                    <a href="/backyard/financing">Financing</a>
+                    <a href="/ladies/financing">Financing</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/showrooms">Showrooms</a>
@@ -163,23 +163,23 @@
             </ul>
             <ol class="mobile-hidden">
                 <li>
-                    <a href="/backyard/studio">Studio</a>
+                    <a href="/ladies/studio">Studio</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/one-bedroom">One bedroom</a>
+                    <a href="/ladies/one-bedroom">One bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/two-bedroom">Two bedroom</a>
+                    <a href="/ladies/two-bedroom">Two bedroom</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-8">XL 8</a>
+                    <a href="/ladies/xl-8">XL 8</a>
                     <span></span>
                 </li>
                 <li>
-                    <a href="/backyard/xl-10">XL 10</a>
+                    <a href="/ladies/xl-10">XL 10</a>
                     <span></span>
                 </li>
             </ol>
@@ -188,7 +188,7 @@
     </div>
 
     <a
-        href="/backyard/configure"
+        href="/ladies/configure"
         class="backyard-configure button-rounded button-rounded-blue m-type-12 hidden-due-to-wildfires"
     >
         Design yours
@@ -214,7 +214,7 @@
     </a>
 
     <a
-        href="/backyard/financing"
+        href="/ladies/financing"
         class="financing-get-your-rate-button button-rounded button-rounded-blue m-type-12"
         onclick="getYourRate(event)"
     >
@@ -255,7 +255,7 @@
 <div class="modern-grid m-modern-grid-full">
     <div class="column-12 m-column-6">
         <img
-            srcset="/assets/images/backyard/models/hero-onebed-vertical/hero-onebed-vertical-1400.webp 768w, /assets/images/backyard/models/hero-onebed-horizontal/hero-onebed-horizontal-3000.webp"
+            srcset="/assets/images/ladies/models/hero-onebed-vertical/hero-onebed-vertical-1400.webp 768w, /assets/images/ladies/models/hero-onebed-horizontal/hero-onebed-horizontal-3000.webp"
             width="1330"
             height="750"
             class="rounded-6 m-rounded-0 full-width backyard-models-header-image"
@@ -276,8 +276,8 @@
             <div class="column-5 m-column-6">
                 <img
                     srcset="
-                        /assets/images/backyard/models/intro-onebed-mobile/intro-onebed-mobile-800.webp 768w,
-                        /assets/images/backyard/models/intro-onebed/intro-onebed-1200.webp
+                        /assets/images/ladies/models/intro-onebed-mobile/intro-onebed-mobile-800.webp 768w,
+                        /assets/images/ladies/models/intro-onebed/intro-onebed-1200.webp
                     "
                     width="540"
                     height="720"
@@ -299,13 +299,13 @@
             <div class="backyard-models-floorplan-dimensions">
                 <div class="backyard-models-floorplan-dimensions-image">
                     <img
-                        src="/assets/images/backyard/models/onebed-floorplan-horizontal/onebed-floorplan-horizontal-2000.webp"
+                        src="/assets/images/ladies/models/onebed-floorplan-horizontal/onebed-floorplan-horizontal-2000.webp"
                         class="mobile-hidden"
                         style="transform: translateX(-3%)"
                         loading="lazy"
                     />
                     <img
-                        src="/assets/images/backyard/models/onebed-floorplan-vertical/onebed-floorplan-vertical-2000.webp"
+                        src="/assets/images/ladies/models/onebed-floorplan-vertical/onebed-floorplan-vertical-2000.webp"
                         class="desktop-hidden"
                         style="transform: scale(107%) translateX(2%)"
                         loading="lazy"
@@ -314,14 +314,14 @@
                 <div class="backyard-models-dimension backyard-models-dimension-horizontal">
                     <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">37'</div>
                     <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">15'</div>
-                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
-                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-right.svg" loading="lazy" />
                 </div>
                 <div class="backyard-models-dimension backyard-models-dimension-vertical">
                     <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">15'</div>
                     <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">37'</div>
-                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
-                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
+                    <img src="/assets/images/ladies/dimension-arrow-top.svg" loading="lazy" />
                 </div>
             </div>
         </div>
@@ -337,13 +337,13 @@
         </div>
         <div class="mobile-hidden column-4 l-column-3 m-column-3 type-15 color-text-60 backyard-models-floorplan-download">
             Dimensioned plans:<br />
-            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+            <a href="/assets/documents/ladies%20Configurations%20December%202023.pdf" target="_blank">
                 Download catalog&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
             </a>
         </div>
         <div class="desktop-hidden m-column-6 type-15 m-type-14 color-text-60 backyard-models-floorplan-download">
             <div class="spacer-24"></div>
-            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+            <a href="/assets/documents/ladies%20Configurations%20December%202023.pdf" target="_blank">
                 Dimensioned plans&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
             </a>
         </div>
@@ -355,8 +355,8 @@
     <div class="backyard-models-interior" id="image-gallery">
     <img
         srcset="
-            /assets/images/backyard/models/interior-hero-onebed-portrait/interior-hero-onebed-portrait-1400.webp 768w,
-            /assets/images/backyard/models/interior-hero-onebed/interior-hero-onebed-3000.webp
+            /assets/images/ladies/models/interior-hero-onebed-portrait/interior-hero-onebed-portrait-1400.webp 768w,
+            /assets/images/ladies/models/interior-hero-onebed/interior-hero-onebed-3000.webp
         "
         width="1440"
         height="880"
@@ -379,8 +379,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-carousel-onebed-one/interior-carousel-onebed-one-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-carousel-onebed-one/interior-carousel-onebed-one-2000.jpg
+                            /assets/images/ladies/models/interior-carousel-onebed-one/interior-carousel-onebed-one-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-carousel-onebed-one/interior-carousel-onebed-one-2000.jpg
                         "
                     />
                 </div>
@@ -395,8 +395,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-carousel-onebed-two/interior-carousel-onebed-two-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-carousel-onebed-two/interior-carousel-onebed-two-2000.jpg
+                            /assets/images/ladies/models/interior-carousel-onebed-two/interior-carousel-onebed-two-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-carousel-onebed-two/interior-carousel-onebed-two-2000.jpg
                         "
                     />
                 </div>
@@ -411,8 +411,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-carousel-onebed-three/interior-carousel-onebed-three-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-carousel-onebed-three/interior-carousel-onebed-three-2000.jpg
+                            /assets/images/ladies/models/interior-carousel-onebed-three/interior-carousel-onebed-three-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-carousel-onebed-three/interior-carousel-onebed-three-2000.jpg
                         "
                     />
                 </div>
@@ -427,8 +427,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/models/interior-carousel-onebed-four/interior-carousel-onebed-four-1125.jpg 768w,
-                            /assets/images/backyard/models/interior-carousel-onebed-four/interior-carousel-onebed-four-2000.jpg
+                            /assets/images/ladies/models/interior-carousel-onebed-four/interior-carousel-onebed-four-1125.jpg 768w,
+                            /assets/images/ladies/models/interior-carousel-onebed-four/interior-carousel-onebed-four-2000.jpg
                         "
                     />
                 </div>
@@ -443,8 +443,8 @@
                 ">
                     <img
                         srcset="
-                            /assets/images/backyard/bathroom/bathroom-1125.jpg 768w,
-                            /assets/images/backyard/bathroom/bathroom-2000.jpg
+                            /assets/images/ladies/bathroom/bathroom-1125.jpg 768w,
+                            /assets/images/ladies/bathroom/bathroom-2000.jpg
                         "
                     />
                 </div>
@@ -476,14 +476,14 @@
         The full bedroom adds a bit more square footage for those who need some extra space, but want to save some extra space at the same time.
     </div>
     <img
-        src="/assets/images/backyard/models/collage-onebed-one/collage-onebed-one-1400.webp"
+        src="/assets/images/ladies/models/collage-onebed-one/collage-onebed-one-1400.webp"
         class="backyard-models-collage-image-one-onebed"
         loading="lazy"
             data-models-parallax="0.1,-0.1"
 
     />
     <img
-        src="/assets/images/backyard/models/collage-onebed-two/collage-onebed-two-1400.webp"
+        src="/assets/images/ladies/models/collage-onebed-two/collage-onebed-two-1400.webp"
         class="backyard-models-collage-image-two-onebed"
         loading="lazy"
             data-models-parallax="0.0,0.15"
@@ -491,7 +491,7 @@
             data-models-parallax-mobile="-0.1,0.0"
     />
     <img
-        src="/assets/images/backyard/models/collage-onebed-three/collage-onebed-three-1400.webp"
+        src="/assets/images/ladies/models/collage-onebed-three/collage-onebed-three-1400.webp"
         class="backyard-models-collage-image-three-onebed"
         loading="lazy"
             data-models-parallax="0.0,0.0125"
@@ -525,8 +525,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-studio-alt/doorway-studio-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-studio/doorway-studio-720.webp
+                /assets/images/ladies/models/doorway-studio-alt/doorway-studio-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-studio/doorway-studio-720.webp
             "
             alt="Small but mighty."
             loading="lazy"
@@ -552,8 +552,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-onebed-alt/doorway-onebed-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-onebed/doorway-onebed-720.webp
+                /assets/images/ladies/models/doorway-onebed-alt/doorway-onebed-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-onebed/doorway-onebed-720.webp
             "
             alt="Our classic all-rounder."
             loading="lazy"
@@ -579,8 +579,8 @@
         <img
             class="doorway-item-background"
             srcset="
-                /assets/images/backyard/models/doorway-twobed-alt/doorway-twobed-alt-1200.webp 768w,
-                /assets/images/backyard/models/doorway-twobed/doorway-twobed-720.webp
+                /assets/images/ladies/models/doorway-twobed-alt/doorway-twobed-alt-1200.webp 768w,
+                /assets/images/ladies/models/doorway-twobed/doorway-twobed-720.webp
             "
             alt="The ultimate flex."
             loading="lazy"
@@ -606,7 +606,7 @@
         <div class="column-1 m-column-0"></div>
         <div class="column-10 m-column-6">
             <img
-                src="/assets/images/backyard/models/specs-onebed/specs-onebed-2880.webp"
+                src="/assets/images/ladies/models/specs-onebed/specs-onebed-2880.webp"
                 width="1106"
                 height="622"
                 class="full-width rounded-6 m-rounded-0"
@@ -680,7 +680,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -809,7 +809,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -940,7 +940,7 @@
     <div class="spacer-50 m-spacer-0"></div>
     <div class="modern-grid backyard-models-specs-table-collapsible">
         <input type="checkbox" class="desktop-hidden">
-        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <img class="desktop-hidden" src="/assets/images/ladies/faq-up.svg" />
         <div class="column-1 m-column-0"></div>
         <div class="column-10">
             <hr class="desktop-hidden" />
@@ -1083,7 +1083,7 @@
         />
     </a>
 
-    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
             <div>Make Backyard&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
@@ -1140,13 +1140,13 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/backyard" class="alt">Backyard</a></li>
-                <li><a href="/backyard/models">Models</a></li>
-                <li><a href="/backyard/configure">Design yours</a></li>
-                <li><a href="/backyard/how-it-works">How it works</a></li>
-                <li><a href="/backyard/financing">Financing</a></li>
-                <li><a href="/backyard/faq">FAQ</a></li>
-                <li><a href="/backyard/guides">Local guides</a></li>
+                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies/models">Models</a></li>
+                <li><a href="/ladies/configure">Design yours</a></li>
+                <li><a href="/ladies/how-it-works">How it works</a></li>
+                <li><a href="/ladies/financing">Financing</a></li>
+                <li><a href="/ladies/faq">FAQ</a></li>
+                <li><a href="/ladies/guides">Local guides</a></li>
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
