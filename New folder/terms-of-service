@@ -13,16 +13,16 @@
 
             <meta name="description" content="" />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Le Prive" />
+        <meta name="copyright" content="Le Prive, Inc." />
 
-        <meta property="og:site_name" content="Samara" />
+        <meta property="og:site_name" content="Le Prive" />
         <meta property="og:title" content="Terms of Service – Samara" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/remote/834edb4b-cd31-423c-4ed3-1accf2066200/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/terms-of-service/"
+            content="/terms-of-service/"
         />
 
             <meta property="og:description" content="" />
@@ -120,7 +120,7 @@
             src="/assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Le Prive"
             loading="lazy"
         />
     </a>
@@ -129,7 +129,7 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/ladies" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Le Prive</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
@@ -233,12 +233,12 @@
                 <p>Last Updated: November 14, 2022</p>
                 <p>
                     Please read these Terms of Service (the “Terms”) and our
-                    Privacy Policy (https://www.samara.com/privacy-policy
+                    Privacy Policy (/privacy-policy
                     (“Privacy Policy”) carefully because they govern your use of
                     our website located at www.samara.com (the “Site”) and
                     services available via the Site via which you can select
                     options to customize and reserve your own accessory dwelling
-                    unit (“Backyard”), offered by Samara Living Inc. (“Samara,”
+                    unit (“Le Prive”), offered by Samara Living Inc. (“Samara,”
                     “we,” “our,” or “us”). To make these Terms easier to read,
                     the Site and those services are collectively called the
                     “Services.”
@@ -288,7 +288,7 @@
                                 law.
                             </li>
                             <li>
-                                To reserve your Backyard, you’ll need to
+                                To reserve your Le Prive, you’ll need to
                                 register and create an account. It’s important
                                 that you provide us with accurate, complete and
                                 current account information and information
@@ -307,7 +307,7 @@
                     <li>
                         Samara’s Intellectual Property. We exclusively own all
                         rights in the Services and any content (e.g. images of
-                        Backyards) made available through the Services. You
+                        Le Prives) made available through the Services. You
                         acknowledge that the Services and content are protected
                         by copyright, trademark, and other laws of the United
                         States and foreign countries and you agree not to
@@ -321,27 +321,27 @@
                         non-commercial purposes.
                     </li>
                     <li>
-                        Reserving Your Backyard. You agree to pay Samara a
-                        deposit to reserve your Backyard. By reserving a
-                        Backyard, you are offering to purchase a Backyard.
+                        Reserving Your Le Prive. You agree to pay Samara a
+                        deposit to reserve your Le Prive. By reserving a
+                        Le Prive, you are offering to purchase a Le Prive.
                         Following receipt of your deposit, Samara will make an
                         assessment of your property based on the information
                         provided by you. If we determine that the installation
-                        of the Backyard is not feasible, we will refund your
+                        of the Le Prive is not feasible, we will refund your
                         deposit within [x] days from our notice to you. If your
                         property reasonably meets the requirements and criteria
-                        for installation of the Backyard, we will schedule a
+                        for installation of the Le Prive, we will schedule a
                         visit to your property. If your property meets our
                         requirements and criteria after that visit, we will send
                         you a proposal which will include a Purchase Order and
                         Construction Contract which you will then need to sign
-                        for the purchase and installation of your Backyard. Any
+                        for the purchase and installation of your Le Prive. Any
                         such purchase is subject to approval of project
                         financing in addition to the terms of the Purchase Order
                         and Construction Contract.
                         <ol type="a">
                             <li>
-                                Payments. When you reserve your Backyard, you
+                                Payments. When you reserve your Le Prive, you
                                 expressly authorize us (or our third-party
                                 payment processor) to charge you for the deposit
                                 (a “Transaction”). We may ask you to supply
@@ -511,7 +511,7 @@
                         regarding the quality, accuracy, timeliness,
                         truthfulness, completeness or reliability of any
                         information or content on the Services. Any warranties
-                        relating to the Backyard will be covered in the Purchase
+                        relating to the Le Prive will be covered in the Purchase
                         Order and Construction Contract and not in these Terms.
                     </li>
                     <li>
@@ -763,7 +763,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -773,9 +773,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -810,7 +810,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

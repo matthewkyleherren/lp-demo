@@ -10,9 +10,9 @@
                 <img
                     class="financing-header-image"
                     src="/assets/images/financing/financing-main/financing-main-1000.webp"
-                    alt="Financing an ADU is hard. With Backyard it’s easy."
+                    alt="Financing an ADU is hard. With Le Prive it’s easy."
                 />
-                <h1 class="type-96 l-type-72 m-type-48">Financing an<br class="desktop-hidden" /> ADU is hard.<br /> With Backyard<br class="desktop-hidden" /> it’s easy.</h1>
+                <h1 class="type-96 l-type-72 m-type-48">Financing an<br class="desktop-hidden" /> ADU is hard.<br /> With Le Prive<br class="desktop-hidden" /> it’s easy.</h1>
                 <div class="spacer-120 m-spacer-100"></div>
                 <ul class="type-30-light m-type-24-light">
                     <li>APRs as low as 6.5%</li>
@@ -21,7 +21,7 @@
                     <li>No need to touch your<br class="desktop-hidden" /> existing mortgage</li>
                 </ul>
                 <div class="spacer-32"></div>
-                <p class="type-30-light m-type-24-light">Designed for Backyard.<br class="desktop-hidden" /> Only at Samara.</p>
+                <p class="type-30-light m-type-24-light">Designed for Le Prive.<br class="desktop-hidden" /> Only at Samara.</p>
                 <a class="type-30-light m-type-24-light"  onclick="getYourRate(event)">
                     Get your rate estimate <img src="/assets/images/icons/arrow-right-blue.svg" width="15" height="10" />
                 </a>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="spacer-50 m-spacer-32"></div>
                 <div class="financing-rate-comparison-option-features type-14">
-                    <p>Financing for Backyard</p>
+                    <p>Financing for Le Prive</p>
                     <ul>
                         <li>6.5% APR</li>
                         <li>30½ year term</li>
@@ -87,7 +87,7 @@
             <div class="column-1 m-column-0"></div>
             <div class="column-10 m-column-6 financing-rate-comparison-footnote">
                 <p>*</p>
-                <p>Rates displayed for a second mortgage assuming $300,000 Backyard purchase price with no downpayment. Available rates, terms, and product offerings will be based on your unique financial&nbsp;situation.</p>
+                <p>Rates displayed for a second mortgage assuming $300,000 Le Prive purchase price with no downpayment. Available rates, terms, and product offerings will be based on your unique financial&nbsp;situation.</p>
             </div>
         </div>
         <div class="spacer-100 m-spacer-50"></div>
@@ -101,7 +101,7 @@
             <div class="column-1 m-column-0"></div>
             <div class="column-6 l-column-10 m-column-6">
                 <h2 class="type-42 l-type-36 m-type-30">
-                    It can be painful to finance an ADU. That’s why we created Financing for Backyard, with lower rates and more flexible terms than your typical second mortgage.
+                    It can be painful to finance an ADU. That’s why we created Financing for Le Prive, with lower rates and more flexible terms than your typical second mortgage.
                 </h2>
             </div>
         </div>
@@ -119,7 +119,7 @@
                 </div>
                 <div class="type-15 m-type-14">
                     <div><img src="/assets/images/financing/financing-rate-benefits-03/financing-rate-benefits-03-500.webp" alt="" /></div>
-                    <p>Finance up to 100% of Backyard, including the cost of installation and closing&nbsp;costs.</p>
+                    <p>Finance up to 100% of Le Prive, including the cost of installation and closing&nbsp;costs.</p>
                 </div>
                 <div class="financing-rate-benefits-row-divider spacer-50"></div>
                 <div class="type-15 m-type-14">
@@ -132,7 +132,7 @@
                 </div>
                 <div class="type-15 m-type-14">
                     <div><img src="/assets/images/financing/financing-rate-benefits-06/financing-rate-benefits-06-500.webp" alt="" /></div>
-                    <p>Designed for Backyard. Only at&nbsp;Samara.</p>
+                    <p>Designed for Le Prive. Only at&nbsp;Samara.</p>
                 </div>
             </div>
         </div>
@@ -205,7 +205,7 @@
             <div class="column-10 l-column-12 m-column-6 type-18">
                 <div class="financing-how-it-stacks-up-row">
                     <div></div>
-                    <div class="financing-how-it-stacks-up-highlight">Financing for<br /> Backyard</div>
+                    <div class="financing-how-it-stacks-up-highlight">Financing for<br /> Le Prive</div>
                     <div>Construction<br /> loan</div>
                     <div>Home equity<br /> line of credit</div>
                     <div>Home<br /> equity loan</div>
@@ -318,7 +318,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -340,7 +340,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -395,7 +395,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -405,9 +405,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -442,7 +442,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

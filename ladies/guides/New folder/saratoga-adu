@@ -7,11 +7,11 @@
             {
                 "@context": "https://schema.org",
                 "@type": "Organization",
-                "name": "Samara",
-                "legalName": "Samara Living, Inc.",
+                "name": "Le Prive",
+                "legalName": "Le Prive Living, Inc.",
                 "url": "https://www.samara.com",
-                "logo": "https://www.samara.com/assets/images/logo-bimi.svg",
-                "description": "Discover Samara's Backyard homes and ADUs. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready.",
+                "logo": "/assets/images/logo-bimi.svg",
+                "description": "Le Prive - Blow Your Mind, and More",
                 "email": "customercare@samara.com",
                 "telephone": "+1-650-260-6503",
                 "address": [{
@@ -23,11 +23,11 @@
                     "postalCode": "94063"
                 }],
                 "image": [
-                    "https://www.samara.com/assets/remote/e58d3876-3093-4be9-a717-35f8070e4400",
-                    "https://www.samara.com/assets/remote/6536502d-8c91-4e1a-0eee-e70ade6ccd00",
-                    "https://www.samara.com/assets/remote/e7244590-13c9-431e-69f4-a2242a352700",
-                    "https://www.samara.com/assets/remote/83cfff3f-2f56-4a5e-80c3-55c52978e200",
-                    "https://www.samara.com/assets/remote/dba03306-df3d-4421-92a3-d9989e2caf00"
+                    "/assets/remote/e58d3876-3093-4be9-a717-35f8070e4400",
+                    "/assets/remote/6536502d-8c91-4e1a-0eee-e70ade6ccd00",
+                    "/assets/remote/e7244590-13c9-431e-69f4-a2242a352700",
+                    "/assets/remote/83cfff3f-2f56-4a5e-80c3-55c52978e200",
+                    "/assets/remote/dba03306-df3d-4421-92a3-d9989e2caf00"
                 ]
             }
         </script>
@@ -40,16 +40,16 @@
 
             <meta name="description" content="Find out what’s allowed when building an ADU in Saratoga, including size, setbacks, parking, and zoning rules, plus how Samara can help you through the process." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Le Prive" />
+        <meta name="copyright" content="Le Prive, Inc." />
 
-        <meta property="og:site_name" content="Samara" />
+        <meta property="og:site_name" content="Le Prive" />
         <meta property="og:title" content="The Complete Saratoga ADU Requirements Guide — Samara" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://www.samara.com/assets/remote/5aa3b561-1b8d-4156-ff2b-eb030aed1700/w=1200" />
+        <meta property="og:image" content="/assets/remote/5aa3b561-1b8d-4156-ff2b-eb030aed1700/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/ladies/guides/saratoga-adu/"
+            content="/ladies/guides/saratoga-adu/"
         />
 
             <meta property="og:description" content="Find out what’s allowed when building an ADU in Saratoga, including size, setbacks, parking, and zoning rules, plus how Samara can help you through the process." />
@@ -62,7 +62,7 @@
 
             <meta name="twitter:description" content="Find out what’s allowed when building an ADU in Saratoga, including size, setbacks, parking, and zoning rules, plus how Samara can help you through the process." />
 
-        <meta name="twitter:image" content="https://www.samara.com/assets/remote/5aa3b561-1b8d-4156-ff2b-eb030aed1700/w=1200" />
+        <meta name="twitter:image" content="/assets/remote/5aa3b561-1b8d-4156-ff2b-eb030aed1700/w=1200" />
 
         <meta name="theme-color" content="#000000" />
 
@@ -161,7 +161,7 @@
             src="/assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Le Prive"
             loading="lazy"
         />
     </a>
@@ -170,7 +170,7 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/ladies" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Le Prive</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
@@ -306,7 +306,7 @@
                             <div class="column-1 l-column-0 m-column-0"></div>
                             <div class="column-10 l-column-12 m-column-6">
 
-                        <img src="https://www.samara.com/assets/remote/7e29b11e-8c73-4ace-ffbd-b3c3317b1000/w=2200" alt="" class="newsroom-internal-image " width="2200" height="1237" />
+                        <img src="/assets/remote/7e29b11e-8c73-4ace-ffbd-b3c3317b1000/w=2200" alt="" class="newsroom-internal-image " width="2200" height="1237" />
 
 
                         </div>
@@ -778,7 +778,7 @@
                         <div class="column-3 l-column-2 m-column-0"></div>
                         <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
                             <div class="type-18-light m-type-15">
-                                <p>If you’re looking to build an ADU, Samara makes it easy. We handle everything from permits to installation and even offer our own financing. Call us at <a href="tel:650-420-2607">650-420-2607</a> to schedule a 15-minute consultation and discover how simple adding a Backyard ADU can be.</p>
+                                <p>If you’re looking to build an ADU, Samara makes it easy. We handle everything from permits to installation and even offer our own financing. Call us at <a href="tel:650-420-2607">650-420-2607</a> to schedule a 15-minute consultation and discover how simple adding a Le Prive ADU can be.</p>
 
                             </div>
                             <div class="spacer-24 m-spacer-16"></div>
@@ -848,7 +848,7 @@
             <a href="/ladies/models">
                 <img
                     loading="lazy"
-                    alt="Backyard one bedroom"
+                    alt="Le Prive one bedroom"
                     width="4000"
                     height="926"
                     src="/assets/images/ladies/front-elevations/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front-4016.webp"
@@ -924,7 +924,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -946,7 +946,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -1001,7 +1001,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -1011,9 +1011,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -1048,7 +1048,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

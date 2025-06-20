@@ -38,7 +38,7 @@
                             <div class="column-1 l-column-0 m-column-0"></div>
                             <div class="column-10 l-column-12 m-column-6">
 
-                        <img src="https://www.samara.com/assets/remote/3aeae5eb-368b-4680-f9c0-02ab32150d00/w=2200" alt="" class="newsroom-internal-image " width="2200" height="1237" />
+                        <img src="/assets/remote/3aeae5eb-368b-4680-f9c0-02ab32150d00/w=2200" alt="" class="newsroom-internal-image " width="2200" height="1237" />
 
 
                         </div>
@@ -83,7 +83,7 @@
                         <div class="column-3 l-column-2 m-column-0"></div>
                         <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
                             <div class="type-18-light m-type-15">
-                                <p>Read on to learn everything you need to know about the requirements for ADUs in Santa Clara and <a href="https://www.samara.com/ladies/how-it-works">how to build your own with Samara</a>.</p>
+                                <p>Read on to learn everything you need to know about the requirements for ADUs in Santa Clara and <a href="/ladies/how-it-works">how to build your own with Samara</a>.</p>
 
                             </div>
                             <div class="spacer-24 m-spacer-16"></div>
@@ -432,7 +432,7 @@
             <div class="insights-module-lineup-scroll">
                 <a href="/ladies/xl-10" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
-        <span class="alt">Backyard</span> XL&thinsp;10
+        <span class="alt">Le Prive</span> XL&thinsp;10
     </div>
     <div class="insights-module-lineup-model-image">
         <div class="insights-module-lineup-model-image-fade"></div>
@@ -440,7 +440,7 @@
             src="/assets/images/insights/modules/lineup/xl-10/xl-10-800.webp"
             width="310"
             height="144"
-            alt="Backyard XL 10"
+            alt="Le Prive XL 10"
         />
         <div class="insights-module-lineup-model-image-fade"></div>
     </div>
@@ -454,7 +454,7 @@
 
                 <a href="/ladies/xl-8" class="insights-module-lineup-model">
     <div class="insights-module-lineup-model-name type-18 color-text-60">
-        <span class="alt">Backyard</span> XL&thinsp;8
+        <span class="alt">Le Prive</span> XL&thinsp;8
     </div>
     <div class="insights-module-lineup-model-image">
         <div class="insights-module-lineup-model-image-fade"></div>
@@ -462,7 +462,7 @@
             src="/assets/images/insights/modules/lineup/xl-8/xl-8-800.webp"
             width="310"
             height="144"
-            alt="Backyard XL 8"
+            alt="Le Prive XL 8"
         />
         <div class="insights-module-lineup-model-image-fade"></div>
     </div>
@@ -569,7 +569,7 @@
                         <div class="column-3 l-column-2 m-column-0"></div>
                         <div class="column-6 l-column-8 m-column-6 newsroom-internal-body">
                             <div class="type-18-light m-type-15">
-                                <p>If you’re looking to build an ADU, Samara makes it easy. We handle everything from permits to installation, including <a href="https://www.samara.com/ladies/financing">ADU financing options</a>. Call us at <a href="tel:650-420-2607">650-420-2607</a> to schedule a 15-minute consultation and discover how simple adding a Backyard ADU can be.</p>
+                                <p>If you’re looking to build an ADU, Samara makes it easy. We handle everything from permits to installation, including <a href="/ladies/financing">ADU financing options</a>. Call us at <a href="tel:650-420-2607">650-420-2607</a> to schedule a 15-minute consultation and discover how simple adding a Le Prive ADU can be.</p>
 
                             </div>
                             <div class="spacer-24 m-spacer-16"></div>
@@ -650,7 +650,7 @@
             <a href="/ladies/models">
                 <img
                     loading="lazy"
-                    alt="Backyard one bedroom"
+                    alt="Le Prive one bedroom"
                     width="4000"
                     height="926"
                     src="/assets/images/ladies/front-elevations/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front/onebedroom.frontdoors.solarfull.basebonewhite.roofdarkbronze.front-4016.webp"
@@ -726,7 +726,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -748,7 +748,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -803,7 +803,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -813,9 +813,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -850,7 +850,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <title>Backyard - ADU Models - Samara</title>
+        <title>Le Prive - ADU Models - Samara</title>
 
         
 
@@ -11,29 +11,29 @@
             content="initial-scale=1, width=device-width, viewport-fit=cover"
         />
 
-            <meta name="description" content="Explore the full lineup of Samara's Backyard ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
+            <meta name="description" content="Explore the full lineup of Samara's Le Prive ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Le Prive" />
+        <meta name="copyright" content="Le Prive, Inc." />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Backyard - ADU Models - Samara" />
+        <meta property="og:site_name" content="Le Prive" />
+        <meta property="og:title" content="Le Prive - ADU Models - Samara" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/remote/28663ada-d1e4-451f-90af-131a0b1e1700/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/ladies/models/"
+            content="/ladies/models/"
         />
 
-            <meta property="og:description" content="Explore the full lineup of Samara's Backyard ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
+            <meta property="og:description" content="Explore the full lineup of Samara's Le Prive ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
 
         
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Backyard - ADU Models - Samara" />
+        <meta name="twitter:title" content="Le Prive - ADU Models - Samara" />
 
-            <meta name="twitter:description" content="Explore the full lineup of Samara's Backyard ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
+            <meta name="twitter:description" content="Explore the full lineup of Samara's Le Prive ADU models, including studio, one bedroom, and two bedroom layouts ranging from 420 to 950 square feet." />
 
         <meta name="twitter:image" content="/assets/remote/28663ada-d1e4-451f-90af-131a0b1e1700/w=1200" />
 
@@ -120,7 +120,7 @@
             src="/assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Le Prive"
             loading="lazy"
         />
     </a>
@@ -129,7 +129,7 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/ladies" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Le Prive</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
@@ -235,7 +235,7 @@
                     <div class="spacer-100 m-spacer-0"></div>
                     <h1 class="type-120 m-type-60">From snug<br> to spacious.<br> Meet the<br class="desktop-hidden"> lineup.</h1>
                     <div class="spacer-50 m-spacer-72"></div>
-                    <p class="type-24-light">Discover and compare Backyard models to find your perfect fit.</p>
+                    <p class="type-24-light">Discover and compare Le Prive models to find your perfect fit.</p>
                     <p class="type-24-light color-white-60">Starting at $152,000 plus&nbsp;installation.</p>
                     <div class="spacer-150 m-spacer-72"></div>
                 </div>
@@ -248,7 +248,7 @@
         <div class="models-lineup-scroll">
             <div class="models-lineup-scroll-container">
                 <div class="models-lineup-scroll-model">
-                    <div class="models-lineup-scroll-model-label type-18 alt">Backyard XL 10</div>
+                    <div class="models-lineup-scroll-model-label type-18 alt">Le Prive XL 10</div>
                     <div class="spacer-12"></div>
                     <h2 class="type-36">Small living,<br /> supersized.</h2>
                     <div class="spacer-12"></div>
@@ -260,7 +260,7 @@
                         2 baths
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/ladies/xl-10"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-10/models-index-xl-10-1000.webp" alt="Backyard XL 10" /></a>
+                        <a href="/ladies/xl-10"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-10/models-index-xl-10-1000.webp" alt="Le Prive XL 10" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -274,7 +274,7 @@
                     </div>
                 </div>
                 <div class="models-lineup-scroll-model">
-                    <div class="models-lineup-scroll-model-label type-18 alt">Backyard XL 8</div>
+                    <div class="models-lineup-scroll-model-label type-18 alt">Le Prive XL 8</div>
                     <div class="spacer-12"></div>
                     <h2 class="type-36">Room to roam,<br /> and then some.</h2>
                     <div class="spacer-12"></div>
@@ -286,7 +286,7 @@
                         2 baths
                     </div>
                     <div class="models-lineup-scroll-model-elevation">
-                        <a href="/ladies/xl-8"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-8/models-index-xl-8-1000.webp" alt="Backyard XL 8" /></a>
+                        <a href="/ladies/xl-8"><img loading="lazy" src="/assets/images/ladies/models/models-index-xl-8/models-index-xl-8-1000.webp" alt="Le Prive XL 8" /></a>
                     </div>
                     <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
                     <div class="type-30-light">
@@ -417,7 +417,7 @@
                 />
 
                 <div data-models-parallax="-0.25,0.05" data-models-parallax-mobile="0.0,0.05">
-                    <p class="mobile-hidden type-15 m-type-18-light">Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Backyard adapts to your life—no matter what life throws at you.</p>
+                    <p class="mobile-hidden type-15 m-type-18-light">Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Le Prive adapts to your life—no matter what life throws at you.</p>
                     <img
                         src="/assets/images/ladies/models/models-index-collage-two/models-index-collage-two-1000.webp"
                         width="428"
@@ -430,7 +430,7 @@
                     data-models-parallax="-0.25,0.05"
                     data-models-parallax-mobile="0.0,-0.015"
                 >
-                    Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Backyard adapts to your life—no matter what life throws at you.
+                    Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Le Prive adapts to your life—no matter what life throws at you.
                 </p>
             </div>
         </div>
@@ -464,7 +464,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -486,7 +486,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -541,7 +541,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -551,9 +551,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -588,7 +588,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

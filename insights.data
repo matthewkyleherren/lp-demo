@@ -23,7 +23,7 @@
                         src="/assets/images/insights/04-kuroda/04-kuroda-2880.webp"
                         width="2880"
                         height="1762"
-                        alt="Life with Backyard: Meet the Kurodas"
+                        alt="Life with Le Prive: Meet the Kurodas"
                         loading="lazy"
                     />
                 </a>
@@ -39,7 +39,7 @@
                 <div class="spacer-24 m-spacer-12"></div>
                 <h2 class="type-60 l-type-48 m-type-30-light">
                     <a href="/insights/life-with-backyard-meet-the-kurodas">
-                        Life with Backyard: Meet the Kurodas
+                        Life with Le Prive: Meet the Kurodas
                     </a>
                 </h2>
             </div>
@@ -74,7 +74,7 @@
             <div class="column-1 l-column-0"></div>
             <div class="column-7 m-column-6">
                 <a href="/insights/report-adus-win-over-california-homeowners">
-                    <img src="https://www.samara.com/assets/remote/5950ca62-25e8-4ea9-488b-844703a74000/w=1600" alt="Report: ADUs Win Over California Homeowners" loading="lazy" class="insights-index-featured-image rounded-6" width="1600" height="922" />
+                    <img src="/assets/remote/5950ca62-25e8-4ea9-488b-844703a74000/w=1600" alt="Report: ADUs Win Over California Homeowners" loading="lazy" class="insights-index-featured-image rounded-6" width="1600" height="922" />
                 </a>
             </div>
             <div class="column-4 l-column-5 m-column-6">
@@ -121,13 +121,13 @@
         <div class="column-6 l-column-7">
             <a href="/insights/how-we-built-a-fire-resistant-ADU">
                 <div class="insights-index-blog-post-item-title">
-                    <h3 class="type-36 m-type-24-light">Backyard is fire resistant by design. Here’s how.</h3>
+                    <h3 class="type-36 m-type-24-light">Le Prive is fire resistant by design. Here’s how.</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/93578295-abea-42a3-500e-969069e49200/w=400" alt="Backyard is fire resistant by design. Here’s how." width="400" height="225" />
+                            <img src="/assets/remote/93578295-abea-42a3-500e-969069e49200/w=400" alt="Le Prive is fire resistant by design. Here’s how." width="400" height="225" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
-                <p class="type-15 color-text-60">The structural core of every Backyard unit is light gauge steel—a choice that provides both exceptional durability and natural fire resistance (as well as protection from mold, rot, and pests). Our exterior envelope builds on this foundation:</p>
+                <p class="type-15 color-text-60">The structural core of every Le Prive unit is light gauge steel—a choice that provides both exceptional durability and natural fire resistance (as well as protection from mold, rot, and pests). Our exterior envelope builds on this foundation:</p>
             </a>
         </div>
         <div class="desktop-hidden m-column-6 insights-index-blog-post-item-details">
@@ -142,7 +142,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/how-we-built-a-fire-resistant-ADU">
-                    <img src="https://www.samara.com/assets/remote/93578295-abea-42a3-500e-969069e49200/w=400" alt="Backyard is fire resistant by design. Here’s how." width="400" height="225" />
+                    <img src="/assets/remote/93578295-abea-42a3-500e-969069e49200/w=400" alt="Le Prive is fire resistant by design. Here’s how." width="400" height="225" />
                 </a>
             </div>
     </div>
@@ -170,7 +170,7 @@
                 <div class="insights-index-blog-post-item-title">
                     <h3 class="type-36 m-type-24-light">Can HOAs Block ADU Construction in California? Understanding Your Rights</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/2b76073a-ab8d-4488-6ebc-af6a19c92700/w=400" alt="Can HOAs Block ADU Construction in California? Understanding Your Rights" width="400" height="225" />
+                            <img src="/assets/remote/2b76073a-ab8d-4488-6ebc-af6a19c92700/w=400" alt="Can HOAs Block ADU Construction in California? Understanding Your Rights" width="400" height="225" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
@@ -189,7 +189,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/can-hoas-block-adu-construction-in-california">
-                    <img src="https://www.samara.com/assets/remote/2b76073a-ab8d-4488-6ebc-af6a19c92700/w=400" alt="Can HOAs Block ADU Construction in California? Understanding Your Rights" width="400" height="225" />
+                    <img src="/assets/remote/2b76073a-ab8d-4488-6ebc-af6a19c92700/w=400" alt="Can HOAs Block ADU Construction in California? Understanding Your Rights" width="400" height="225" />
                 </a>
             </div>
     </div>
@@ -217,7 +217,7 @@
                 <div class="insights-index-blog-post-item-title">
                     <h3 class="type-36 m-type-24-light">How to Finance an ADU</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/7b4af13f-4e79-4bc5-81c9-8e245b224e00/w=400" alt="How to Finance an ADU" width="400" height="225" />
+                            <img src="/assets/remote/7b4af13f-4e79-4bc5-81c9-8e245b224e00/w=400" alt="How to Finance an ADU" width="400" height="225" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
@@ -236,7 +236,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/how-to-finance-an-adu">
-                    <img src="https://www.samara.com/assets/remote/7b4af13f-4e79-4bc5-81c9-8e245b224e00/w=400" alt="How to Finance an ADU" width="400" height="225" />
+                    <img src="/assets/remote/7b4af13f-4e79-4bc5-81c9-8e245b224e00/w=400" alt="How to Finance an ADU" width="400" height="225" />
                 </a>
             </div>
     </div>
@@ -264,7 +264,7 @@
                 <div class="insights-index-blog-post-item-title">
                     <h3 class="type-36 m-type-24-light">How Many Bedrooms Can an ADU in California Have?</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/8a85faee-0714-4c7c-eb3c-712f65391800/w=400" alt="How Many Bedrooms Can an ADU in California Have?" width="400" height="225" />
+                            <img src="/assets/remote/8a85faee-0714-4c7c-eb3c-712f65391800/w=400" alt="How Many Bedrooms Can an ADU in California Have?" width="400" height="225" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
@@ -283,7 +283,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/how-big-can-an-adu-be-in-california">
-                    <img src="https://www.samara.com/assets/remote/8a85faee-0714-4c7c-eb3c-712f65391800/w=400" alt="How Many Bedrooms Can an ADU in California Have?" width="400" height="225" />
+                    <img src="/assets/remote/8a85faee-0714-4c7c-eb3c-712f65391800/w=400" alt="How Many Bedrooms Can an ADU in California Have?" width="400" height="225" />
                 </a>
             </div>
     </div>
@@ -311,7 +311,7 @@
                 <div class="insights-index-blog-post-item-title">
                     <h3 class="type-36 m-type-24-light">California’s New ADU Handbook: What’s Changed for 2025</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/7fd63db2-b177-45ea-299d-1dd0804d2d00/w=400" alt="California’s New ADU Handbook: What’s Changed for 2025" width="400" height="205" />
+                            <img src="/assets/remote/7fd63db2-b177-45ea-299d-1dd0804d2d00/w=400" alt="California’s New ADU Handbook: What’s Changed for 2025" width="400" height="205" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
@@ -330,7 +330,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/2025-accessory-dwelling-unit-handbook">
-                    <img src="https://www.samara.com/assets/remote/7fd63db2-b177-45ea-299d-1dd0804d2d00/w=400" alt="California’s New ADU Handbook: What’s Changed for 2025" width="400" height="205" />
+                    <img src="/assets/remote/7fd63db2-b177-45ea-299d-1dd0804d2d00/w=400" alt="California’s New ADU Handbook: What’s Changed for 2025" width="400" height="205" />
                 </a>
             </div>
     </div>
@@ -358,7 +358,7 @@
                 <div class="insights-index-blog-post-item-title">
                     <h3 class="type-36 m-type-24-light">How to Get an ADU Permit in California</h3>
                         <span class="desktop-hidden">
-                            <img src="https://www.samara.com/assets/remote/e96ecaec-e24a-42e1-5f4f-f02dc7047100/w=400" alt="How to Get an ADU Permit in California" width="400" height="225" />
+                            <img src="/assets/remote/e96ecaec-e24a-42e1-5f4f-f02dc7047100/w=400" alt="How to Get an ADU Permit in California" width="400" height="225" />
                         </span>
                 </div>
                 <div class="spacer-12"></div>
@@ -377,7 +377,7 @@
         </div>
             <div class="column-2 l-column-3 m-column-0">
                 <a href="/insights/how-to-get-an-adu-permit">
-                    <img src="https://www.samara.com/assets/remote/e96ecaec-e24a-42e1-5f4f-f02dc7047100/w=400" alt="How to Get an ADU Permit in California" width="400" height="225" />
+                    <img src="/assets/remote/e96ecaec-e24a-42e1-5f4f-f02dc7047100/w=400" alt="How to Get an ADU Permit in California" width="400" height="225" />
                 </a>
             </div>
     </div>
@@ -455,7 +455,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -477,7 +477,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -532,7 +532,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -542,9 +542,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -579,7 +579,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

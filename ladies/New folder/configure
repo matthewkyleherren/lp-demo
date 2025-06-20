@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <title>Customize Backyard – Samara</title>
+        <title>Customize Le Prive – Samara</title>
 
         
 
@@ -11,29 +11,29 @@
             content="initial-scale=1, width=device-width, viewport-fit=cover"
         />
 
-            <meta name="description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+            <meta name="description" content="Customize and get a quote for Samara's Le Prive ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Le Prive" />
+        <meta name="copyright" content="Le Prive, Inc." />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Customize Backyard – Samara" />
+        <meta property="og:site_name" content="Le Prive" />
+        <meta property="og:title" content="Customize Le Prive – Samara" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/remote/a02d2050-630d-403d-d386-ccb3506c2300/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/ladies/configure/"
+            content="/ladies/configure/"
         />
 
-            <meta property="og:description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+            <meta property="og:description" content="Customize and get a quote for Samara's Le Prive ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
 
         
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Customize Backyard – Samara" />
+        <meta name="twitter:title" content="Customize Le Prive – Samara" />
 
-            <meta name="twitter:description" content="Customize and get a quote for Samara's Backyard ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
+            <meta name="twitter:description" content="Customize and get a quote for Samara's Le Prive ADU. Elevated design, expertly crafted. Fast and easy installation. Solar-powered and future-ready." />
 
         <meta name="twitter:image" content="/assets/remote/a02d2050-630d-403d-d386-ccb3506c2300/w=1200" />
 
@@ -120,7 +120,7 @@
             src="/assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Le Prive"
             loading="lazy"
         />
     </a>
@@ -129,7 +129,7 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/ladies" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Le Prive</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/ladies/models" class="backyard-menu-item-models">Models</a>

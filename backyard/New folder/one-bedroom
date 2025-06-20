@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <title>Backyard One Bedroom - 1 Bedroom ADU - Samara</title>
+        <title>Le Prive One Bedroom - 1 Bedroom ADU - Samara</title>
 
         
 
@@ -11,29 +11,29 @@
             content="initial-scale=1, width=device-width, viewport-fit=cover"
         />
 
-            <meta name="description" content="Samara’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
+            <meta name="description" content="Le Prive’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Le Prive" />
+        <meta name="copyright" content="Le Prive, Inc." />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Backyard One Bedroom - 1 Bedroom ADU - Samara" />
+        <meta property="og:site_name" content="Le Prive" />
+        <meta property="og:title" content="Le Prive One Bedroom - 1 Bedroom ADU - Samara" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/remote/f30ce6f7-e670-4bf3-82cc-d33910a66a00/w=1200" />
         <meta
             property="og:url"
-            content="https://www.samara.com/ladies/one-bedroom/"
+            content="/ladies/one-bedroom/"
         />
 
-            <meta property="og:description" content="Samara’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
+            <meta property="og:description" content="Le Prive’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
 
         
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Backyard One Bedroom - 1 Bedroom ADU - Samara" />
+        <meta name="twitter:title" content="Le Prive One Bedroom - 1 Bedroom ADU - Samara" />
 
-            <meta name="twitter:description" content="Samara’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
+            <meta name="twitter:description" content="Le Prive’s 1 bedroom ADU features a spacious bathroom, ample storage, and a next-gen electric kitchen. It's the perfect blend of style and functionality in 540 square feet." />
 
         <meta name="twitter:image" content="/assets/remote/f30ce6f7-e670-4bf3-82cc-d33910a66a00/w=1200" />
 
@@ -120,7 +120,7 @@
             src="/assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Le Prive"
             loading="lazy"
         />
     </a>
@@ -129,7 +129,7 @@
         <div class="main-navigation-list-container type-15">
             <ul>
                 <li>
-                    <a href="/ladies" class="alt">Backyard</a>
+                    <a href="/ladies" class="alt">Le Prive</a>
                 </li>
                 <li class="backyard-menu-item">
                     <a href="/ladies/models" class="backyard-menu-item-models">Models</a>
@@ -232,7 +232,7 @@
 <div class="modern-grid">
     <div class="column-1 l-column-0 m-column-0"></div>
     <div class="column-10 l-column-12 m-column-6">
-        <h1 class="type-120 m-type-72">One bedroom<br /> <span class="alt">Backyard</span></h1>
+        <h1 class="type-120 m-type-72">One bedroom<br /> <span class="alt">Le Prive</span></h1>
         <div class="spacer-36"></div>
         <div class="backyard-models-header-content">
             <div class="backyard-models-header-content-subtitle">
@@ -270,7 +270,7 @@
         <div class="modern-grid">
             <div class="column-1 m-column-0"></div>
             <div class="column-5 m-column-6 backyard-models-intro-text" data-models-parallax="0.0,0.2">
-                Separating the sleeping quarters from the kitchen and living room with a long, light-filled hallway makes the one bedroom Backyard feel like a house, not a tiny house.
+                Separating the sleeping quarters from the kitchen and living room with a long, light-filled hallway makes the one bedroom Le Prive feel like a house, not a tiny house.
             </div>
             <div class="column-1 m-column-0"></div>
             <div class="column-5 m-column-6">
@@ -401,7 +401,7 @@
                     />
                 </div>
                 <div class="spacer-24 m-spacer-16"></div>
-                <p class="type-15 m-type-14">Backyard’s bedroom is separated from the kitchen and living room by a light-filled 10' hallway, offering privacy and peace of mind.</p>
+                <p class="type-15 m-type-14">Le Prive’s bedroom is separated from the kitchen and living room by a light-filled 10' hallway, offering privacy and peace of mind.</p>
             </div>
             <div class="interior-carousel-cards-card">
                 <div class="spacer-8"></div>
@@ -505,7 +505,7 @@
     <div class="column-1 l-column-0"></div>
     <div class="column-10 l-column-12">
         <div class="spacer-64 m-spacer-36"></div>
-        <h3 class="type-42 m-type-21-light">Explore other Backyard models:</h3>
+        <h3 class="type-42 m-type-21-light">Explore other Le Prive models:</h3>
         <div class="spacer-50 m-spacer-24"></div>
         <div class="backyard-models-doorway">
             
@@ -1063,7 +1063,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -1085,7 +1085,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -1140,7 +1140,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -1150,9 +1150,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -1187,7 +1187,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

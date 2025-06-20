@@ -18,7 +18,7 @@
             <div class="column-1 m-column-0"></div>
             <div class="column-4 l-column-7 m-column-6">
                 <h2 class="type-24-light m-type-21-light">
-                    Getting Backyard is easy.
+                    Getting Le Prive is easy.
                 </h2>
                 <h2 class="type-24-light m-type-21-light color-text-60">
                     We handle everything.<br /> You decide what to do with it.
@@ -52,14 +52,14 @@
             <div class="how-it-works-step-bullet"></div>
             <div class="how-it-works-step-line"></div>
             <div class="how-it-works-step-content">
-                <h4 class="type-36 l-type-30-light m-type-24-light">Design your<br /> Backyard</h4>
+                <h4 class="type-36 l-type-30-light m-type-24-light">Design your<br /> Le Prive</h4>
                 <div class="spacer-16"></div>
                 <p class="type-15 m-type-14 color-text-80">Choose your layout, finishes, design details, and&nbsp;upgrades.</p>
                 <div class="spacer-16"></div>
                 <p class="type-15 m-type-14 color-text-80">After you submit your design, we’ll analyze your property remotely to confirm it’s a&nbsp;good&nbsp;fit.</p>
             </div>
             <div class="how-it-works-step-content-media">
-                <img src="/assets/images/how-it-works/how-it-works-step-1/how-it-works-step-1-1440.webp" alt="Design your Backyard" loading="lazy" />
+                <img src="/assets/images/how-it-works/how-it-works-step-1/how-it-works-step-1-1440.webp" alt="Design your Le Prive" loading="lazy" />
             </div>
         </div>
 
@@ -70,7 +70,7 @@
                 <h4 class="type-36 l-type-30-light m-type-24-light">Site visit</h4>
                 <div class="spacer-16"></div>
                 <p class="type-15 m-type-14 color-text-80">
-                    A&nbsp;project specialist will visit your property to&nbsp;confirm feasibility and find the perfect spot for your&nbsp;Backyard.
+                    A&nbsp;project specialist will visit your property to&nbsp;confirm feasibility and find the perfect spot for your&nbsp;Le Prive.
                 </p>
             </div>
             <div class="how-it-works-step-content-media">
@@ -145,7 +145,7 @@
             <div class="how-it-works-factory-text">
                 <h4 class="type-21-light l-type-18-light m-type-24-light">Factory assembly</h4>
                 <div class="spacer-16 m-spacer-8"></div>
-                <p class="type-15 m-type-14">Assembly begins in our state-of-the-art factory. We build your Backyard with meticulous attention to detail.</p>
+                <p class="type-15 m-type-14">Assembly begins in our state-of-the-art factory. We build your Le Prive with meticulous attention to detail.</p>
             </div>
         </div>
 
@@ -180,7 +180,7 @@
                 <h4 class="type-36 l-type-30-light m-type-24-light">Home delivery,<br /> literally</h4>
                 <div class="spacer-16"></div>
                 <p class="type-15 m-type-14 color-text-80">
-                    Once your installation date is&nbsp;set, your Backyard&nbsp;begins its journey from our factory to&nbsp;your home.
+                    Once your installation date is&nbsp;set, your Le Prive&nbsp;begins its journey from our factory to&nbsp;your home.
                 </p>
             </div>
             <div class="how-it-works-step-content-media">
@@ -202,7 +202,7 @@
         <div class="how-it-works-step how-it-works-step-8">
             <div class="how-it-works-step-bullet"></div>
             <div class="how-it-works-step-8-text type-15 m-type-14 color-text-80">
-                Using a&nbsp;crane, we&nbsp;carefully place your Backyard&nbsp;onto its foundation. It&nbsp;only takes a&nbsp;few hours.
+                Using a&nbsp;crane, we&nbsp;carefully place your Le Prive&nbsp;onto its foundation. It&nbsp;only takes a&nbsp;few hours.
             </div>
             <div class="modern-grid full-width">
                 <div class="column-12">
@@ -302,7 +302,7 @@
                     Imagine what’s<br class="desktop-hidden" /> possible in your yard.
                 </h4>
                 <h4 class="type-42 l-type-36 m-type-30-light color-white-80 type-center">
-                    Design your<br class="desktop-hidden" /> Backyard today.
+                    Design your<br class="desktop-hidden" /> Le Prive today.
                 </h4>
                 <div class="spacer-50"></div>
                 <div class="flex flex-column items-center justify-center">
@@ -356,7 +356,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -378,7 +378,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -435,7 +435,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -445,9 +445,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -482,7 +482,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

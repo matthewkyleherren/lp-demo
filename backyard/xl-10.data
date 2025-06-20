@@ -5,7 +5,7 @@
 <div class="modern-grid">
     <div class="column-1 l-column-0 m-column-0"></div>
     <div class="column-10 l-column-12 m-column-6">
-        <h1 class="type-120 m-type-72"><span class="alt">Backyard</span><br class="desktop-hidden" /> XL 10</h1>
+        <h1 class="type-120 m-type-72"><span class="alt">Le Prive</span><br class="desktop-hidden" /> XL 10</h1>
         <div class="spacer-36"></div>
         <div class="backyard-models-header-content">
             <div class="backyard-models-header-content-subtitle">
@@ -43,7 +43,7 @@
         <div class="modern-grid">
             <div class="column-1 m-column-0"></div>
             <div class="column-5 m-column-6 backyard-models-intro-text" data-models-parallax="0.0,0.2">
-                A big upgrade. Backyard XL 10 boasts roomier bedrooms, en suite and shared bathrooms, and an upsized kitchen and living area. No compromises, just smart space.
+                A big upgrade. Le Prive XL 10 boasts roomier bedrooms, en suite and shared bathrooms, and an upsized kitchen and living area. No compromises, just smart space.
             </div>
             <div class="column-1 m-column-0"></div>
             <div class="column-5 m-column-6">
@@ -263,7 +263,7 @@
 
     <div class="backyard-models-collage">
     <div class="backyard-models-collage-text backyard-models-collage-text-xl-10">
-        From the chef-worthy kitchen to the supersized bedrooms, Backyard XL 10 gives you room to grow, not outgrow.
+        From the chef-worthy kitchen to the supersized bedrooms, Le Prive XL 10 gives you room to grow, not outgrow.
     </div>
     <img
         src="/assets/images/ladies/models/collage-xl-10-one/collage-xl-10-one-1400.webp"
@@ -296,7 +296,7 @@
     <div class="column-1 l-column-0"></div>
     <div class="column-10 l-column-12">
         <div class="spacer-64 m-spacer-36"></div>
-        <h3 class="type-42 m-type-21-light">Explore other Backyard models:</h3>
+        <h3 class="type-42 m-type-21-light">Explore other Le Prive models:</h3>
         <div class="spacer-50 m-spacer-24"></div>
         <div class="backyard-models-doorway">
             
@@ -361,7 +361,7 @@
     <a class="doorway-item doorway-item-inverted type-24-light m-type-18-light" href="xl-8">
         <div class="doorway-item-foreground">
             <div>More to love.</div>
-            Backyard XL 8 <img
+            Le Prive XL 8 <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-white.svg"
                 width="24"
@@ -883,7 +883,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
         <div class="doorway-item-foreground">
-            <div>Backyard Multiunit.</div>
+            <div>Le Prive Multiunit.</div>
             For <nobr class="nobr">developers <img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -905,7 +905,7 @@
 
     <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/ladies/configure">
         <div class="doorway-item-foreground">
-            <div>Make Backyard&nbsp;yours.</div>
+            <div>Make Le Prive&nbsp;yours.</div>
             Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
                 class="doorway-item-arrow"
                 src="/assets/images/icons/arrow-right-black.svg"
@@ -960,7 +960,7 @@
                 <li><a href="/developers">For Developers</a></li>
         </ul>
         <ul class="column-3">
-                <li><a href="/ladies" class="alt">Backyard</a></li>
+                <li><a href="/ladies" class="alt">Le Prive</a></li>
                 <li><a href="/ladies/models">Models</a></li>
                 <li><a href="/ladies/configure">Design yours</a></li>
                 <li><a href="/ladies/how-it-works">How it works</a></li>
@@ -970,9 +970,9 @@
         </ul>
         <ul class="column-3">
                 <li><div class="m-spacer-24"></div>Social</li>
-                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
-                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
-                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+                <li><a href="https://instagram.com/leprivech__" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/leprivech__" target="_blank">YouTube</a></li>
+                
         </ul>
 
         <div class="column-3 m-column-6 footer-contact">
@@ -1007,7 +1007,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2025 Samara Living Inc.
+            © 2025 Le Prive
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">
